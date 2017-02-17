@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Duvar kağıdı &amp; tema</string>
+    <string name="application_name_new">Kişiselleştirme</string>
+    <string name="system_wallpaper">Sistem duvar kağıtları</string>
+    <string name="wallpaper">Duvar kağıdı</string>
+    <string name="local_theme">Yerel temalar</string>
+    <string name="online_theme">Çevrimiçi temalar</string>
+    <string name="theme">Temalar</string>
+    <string name="font">Yazı tipleri</string>
+    <string name="local_font">Yerel yazı tipleri</string>
+    <string name="online_font">Çevrimiçi yazı tipleri</string>
+    <string name="system_theme">Sistem teması</string>
+    <string name="system_font">Sistem yazı tipi</string>
+    <string name="state_wifi_network">Wifi Ağı kullanarak</string>
+    <string name="state_mobile_network">Hücresel ağ kullanıyorsanız ve veri kullanım ücretleri oluşacak.</string>
+    <string name="state_no_network">Ağ bağlantısı yok</string>
+    <string name="state_network_timeout">Ağ bağlantısı zaman aşımına uğradı. Ağ ayarlarınızı kontrol edin.</string>
+    <string name="success_download">İndirildi</string>
+    <string name="cancal_download">İndirme duraklatıldı. Lütfen yeniden karşıdan yüklemek için devam tuşuna basın.</string>
+    <string name="set_theme_success">Tema başarıyla ayarlandı</string>
+    <string name="set_theme_fail">Tema ayarlanamadı</string>
+    <string name="theme_has_downloaded">Tema zaten indirilmiş</string>
+    <string name="make_sure_delete_theme">Bu tema silmek için onaylayın.</string>
+    <string name="yes">Sil</string>
+    <string name="no">İptal</string>
+    <string name="le_no_storage_permission">Tema mağazası depolama alanı izni yok</string>
+    <string name="le_no_read_phone_permission">Tema mağaza telefon durumu ve kimlik izinleri okuma</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="string_more_correction_error_dialg_msg">"Message calibration has failed %1$s times in succession, the possible cause may be:
+\u0009\u0009 1. Your carrier’s information is incorrectly set. 
+\u0009\u0009 2. Current network is disconnected or unstable.
+\u0009\u0009 3. Calibration server is busy.
+\u0009\u0009 4. The mobile signal is weak for current location.
+\u0009\u0009 5. The phone account has insufficient balance or no service available.
+ Please check the reason for failure, then try to calibrate again."</string>
+</resources>

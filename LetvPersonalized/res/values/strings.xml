@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Custom Service</string>
+    <string name="personalized_update_title">Custom Resources Update</string>
+    <string name="personalized_update_description_reboot">Your custom resources are ready. Restart now?</string>
+    <string name="personalized_update_description_unreboot">Your custom resources are ready. Apply now?</string>
+    <string name="reboot_now">Restart</string>
+    <string name="perform_now">Apply</string>
+    <string name="tip_later">Remind me later</string>
+    <string name="prepar_data">Updating Custom Data...</string>
+    <string name="notification_title">New custom resources have been applied. Click to view</string>
+    <string name="personalized_update_description_reboot_2">Your %1$s customized resources are ready. Restart now?</string>
+    <string name="personalized_update_description_unreboot_2">Your %1$s customized resources are ready. Apply now?</string>
+    <string name="personalized_res_ready">Custom Resources</string>
+    <string name="personalized_res_ready_noti_title">Custom Resources</string>
+    <string name="personalized_res_ready_noti_content">New custom resources have been applied. Click to view</string>
+    <string name="personalized_res_failed_noti_content">Unable to apply new custom resources. Click to view</string>
+    <string name="personalized_res_ready_noti_content_2">Your %1$s customized resources have taken effect. Tap to view.</string>
+    <string name="personalized_res_failed_noti_content_2">Failed to apply your %1$s customized resources. Tap to view.</string>
+    <string name="permlab_personzlized">Read custom service data</string>
+    <string name="permdesc_personzlized">Read custom service data and receive custom service broadcast messages</string>
+    <string name="permlab_prompt_phone">Custom service requires phone permission</string>
+    <string name="permlab_prompt_phone_2">The %1$s customized services require the phone permissions.</string>
+    <item type="string" name="APKTOOL_DUMMY_15">false</item>
+    <item type="string" name="APKTOOL_DUMMY_16">false</item>
+    <string name="fetch_person">获取定制信息</string>
+    <string name="show_tip">显示提示框</string>
+    <string name="test_reboot_now">立即重启</string>
+    <string name="test_noti">测试通知</string>
+    <string name="test_prepare">准备页面</string>
+</resources>

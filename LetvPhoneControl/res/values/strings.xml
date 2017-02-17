@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Find My Device</string>
+    <string name="perm_service_bind">Bind remote control service</string>
+    <string name="permdesc_service_bind">Phone may be unlocked once remote control service is bound</string>
+    <string name="perm_service_send_broadcast">Send remote control broadcast permissions</string>
+    <string name="permdesc_service_send_broadcast">Permissions to send remote control broadcast, lock, unlock and wipe data</string>
+    <string name="perm_service_broadcast">Receive remote control broadcast</string>
+    <string name="permdesc_service_broadcast">Receive remote control broadcast, lock, unlock and wipe data</string>
+    <string name="phone_control_data_network_error">Not network</string>
+    <string name="phone_control_data_not_get_imei_error">Has yet to get to the imei, please wait</string>
+    <string name="phone_control_data_report_result_error">Incorrect reported result...</string>
+    <string name="phone_control_data_unlock_state_error">Incorrect setting of the phone unlock status...</string>
+    <string name="phone_control_data_ok">ok</string>
+    <string name="phone_control_data_password_error">Incorrect password...</string>
+    <string name="phone_control_data_server_error">Server error</string>
+    <string name="phone_control_data_unknown_error">Unknown error</string>
+    <string name="phone_control_data_default_error">Unknown error...</string>
+    <string name="subpas">Unlock</string>
+    <string name="phone_in_searching_title">Searching for devices...</string>
+    <string name="phone_in_searching_ok">Got it</string>
+    <string name="notification_locked_text">Phone has been locked</string>
+</resources>

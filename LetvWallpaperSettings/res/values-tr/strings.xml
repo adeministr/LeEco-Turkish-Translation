@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="leui_wallpaper_setting_preferences">Duvar kağıtları</string>
+    <string name="application_name">Duvar kağıdı ayarları</string>
+    <string name="gallery_wallpaper">Galeri</string>
+    <string name="live_wallpaper">Canlı duvar kağıdı</string>
+    <string name="static_wallpaper">Sabit duvar kağıdı</string>
+    <string name="activity_not_found">Uygulama telefonunuzda yüklü değil.</string>
+    <string name="bottom_cancel_text">İptal</string>
+    <string name="bottom_ok_text">Tamam</string>
+    <string name="third_wallpaper">üçüncü taraf duvar kağıdı</string>
+    <string name="other_wallpapers">diğerleri</string>
+    <string name="not_support_format">Bu biçim duvar kağıdı olarak ayarlamayı desteklemez.</string>
+    <string name="set_wallpaper_success">Duvar kağıdı başarıyla ayarlandı!</string>
+    <string name="set_wallpaper_failure">Duvar kağıdı ayarlama başarısız oldu!</string>
+    <string name="state_setting_as_wallpaper">Duvar kağıdı olarak ayarla</string>
+    <string name="all_selection">Tüm seçimi</string>
+    <string name="eui_selection">EUI seçimi</string>
+    <string name="not_return_image">Resmi döndüremedi</string>
+    <string name="static_wallpaper_count">14</string>
+    <string name="leui_wallpaper_setting_preferences_title">Ekranlar ve duvar kağıtları</string>
+    <string name="system_wallpaper">Sistem duvar kağıdı</string>
+    <string name="more_gallery_wallpaper">Daha fazla Galeri</string>
+    <string name="more_system_wallpaper">Daha fazla duvar kağıdı</string>
+    <string name="online_wallpaper">Çevrimiçi duvar kağıdı</string>
+    <string name="announce_selection">Seçilen %1$s</string>
+    <string name="label_wallpaper_online">Duvar kağıdı</string>
+</resources>

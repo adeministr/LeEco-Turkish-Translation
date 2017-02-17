@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tara</string>
+    <string name="application_name">Tara</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="qrcode_create">Oluştur</string>
+    <string name="qrcode_failed">scan_failure</string>
+    <string name="qrcode_top_hint">QR kodu tara</string>
+    <string name="qrcode_camera_framework_bug">Özgünüm. Kamerada bir hata var. Telefonu yeniden başlatmanız gerekebilir.</string>
+    <string name="qrcode_ok">Tamam</string>
+    <string name="qrcode_recognition">Tanıma</string>
+    <string name="qrcode_photo">fotoğraf</string>
+    <string name="qrcode_unknown">Bilinmeyen QR codu. Lütfen tekrar deneyin</string>
+    <string name="qrcode_point">Kamera QR kodunu algıladığında, otomatik olarak tarar</string>
+    <string name="qrcode_letv_login_success">Giriş başarılı</string>
+    <string name="qrcode_wifi_connected">Bağlan</string>
+    <string name="qrcode_wlan">Wi-Fi</string>
+    <string name="qrcode_network_disable">Ağ bağlı değil, ağı kontrol edin</string>
+    <string name="scan_result">Tarama sonucu</string>
+</resources>

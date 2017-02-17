@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="days">
+        <item quantity="other">%1$d days</item>
+        <item quantity="one">%1$d day</item>
+    </plurals>
+    <plurals name="plan_days_format">
+        <item quantity="other">%s days</item>
+        <item quantity="one">%s day</item>
+    </plurals>
+    <plurals name="text_time_day">
+        <item quantity="other">剩余%1$s天</item>
+    </plurals>
+    <plurals name="text_time_hour">
+        <item quantity="other">%1$s小时</item>
+    </plurals>
+    <plurals name="text_time_minute">
+        <item quantity="other">%1$s分钟</item>
+    </plurals>
+    <plurals name="tip_active">
+        <item quantity="other">请在 %1$s 天内激活套餐</item>
+    </plurals>
+    <plurals name="tip_day">
+        <item quantity="other">该套餐还剩 %1$s 天有效期</item>
+    </plurals>
+    <plurals name="tip_day_ex">
+        <item quantity="other">" %1$s 天"</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%1$d Hours</item>
+        <item quantity="one">%1$d Hour</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%1$d Minutes</item>
+        <item quantity="one">%1$d Minute</item>
+    </plurals>
+</resources>

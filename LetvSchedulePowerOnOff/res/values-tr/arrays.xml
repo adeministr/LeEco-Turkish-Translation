@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Güç açma 1 dakika içinde planlanıyor.</item>
+        <item>Güç %1$s sonra gerçekleşmesi planlanıyor.</item>
+        <item>Güç açma %2$s sonra gerçekleşmesi planlanıyor.</item>
+        <item>Güç açma %1$s %2$s sonra gerçekleşmesi planlanıyor.</item>
+        <item>Güç açma %3$s sonra gerçekleşmesi planlanıyor.</item>
+        <item>Güç açma %1$s %3$s sonra gerçekleşmesi planlanıyor.</item>
+        <item>Güç açma %2$s %3$s sonra gerçekleşmesi planlanıyor.</item>
+        <item>Güç açma %1$s (sonra %2$s %3$s) gerçekleşmesi planlanıyor.</item>
+        <item>Güç kapatma 1 dakika içinde planlanıyor.</item>
+        <item>Güç kapatma %1$s sonra gerçekleşmesi planlanıyor.</item>
+        <item>Güç kapatma %2$s sonra gerçekleşmesi planlanıyor.</item>
+        <item>Güç kapatma %1$s %2$s sonra gerçekleşmesi planlanıyor.</item>
+        <item>Güç kapatma %3$s sonra gerçekleşmesi planlanıyor.</item>
+        <item>Güç kapatma %1$s %3$s sonra gerçekleşmesi planlanıyor.</item>
+        <item>Güç kapatma %2$s %3$s sonra gerçekleşmesi planlanıyor.</item>
+        <item>Güç kapatma %1$s (sonra %2$s %3$s) gerçekleşmesi planlanıyor.</item>
+    </string-array>
+</resources>
