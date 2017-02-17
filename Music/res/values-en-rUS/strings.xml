@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="online_music_quality">Online playback quality</string>
+    <string name="download_songs_quality">Download audio quality</string>
+    <string name="edit_detail_song_name">Song name</string>
+    <string name="overseas_artist_detail">%1$s albums %2$s songs</string>
+    <string name="genres_item_count">%d songs</string>
+</resources>

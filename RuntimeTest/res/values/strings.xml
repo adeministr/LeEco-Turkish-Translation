@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RuntimeTest</string>
+    <string name="name_desp">RunTime Test:select what you want test,then press Start. V6.1.1</string>
+    <string name="name_spkrevdesp">SpkRev Test: test speaker receiver with specific audio resouce.V6.0</string>
+    <string name="name_reboot">Reboot</string>
+    <string name="name_emmc">EMMC</string>
+    <string name="name_memory">Memory</string>
+    <string name="name_battery">Battery</string>
+    <string name="name_audio">Audio</string>
+    <string name="name_video">Video</string>
+    <string name="name_camera">Camera</string>
+    <string name="name_lcd">LCD</string>
+    <string name="name_s3">S3</string>
+    <string name="name_2d">2D</string>
+    <string name="name_3d">3D</string>
+    <string name="name_cpu">CPU</string>
+    <string name="name_spkrec">Spk-Rev</string>
+    <string name="buttontext_selectall">Select All</string>
+    <string name="buttontext_clearall">Clear All</string>
+    <string name="buttontext_starttest">Start</string>
+    <string name="buttontext_setting">Setting</string>
+    <string name="buttontext_stoptest">Stop</string>
+    <string name="setting_title">RuntimTest setting</string>
+    <string name="name_setting_time">Edit the test time as what you want(minutes).</string>
+    <string name="name_setting_count">Edit the test count as what you want.</string>
+    <string name="buttontext_default">Default Value</string>
+    <string name="buttontext_ok">Ok</string>
+    <string name="buttontext_cancel">Cancel</string>
+    <string name="s3_text_disp">S3 test ongoing.........</string>
+    <string name="charged_not_connected_msg">AC Charger not connected! Please connect the charger first.</string>
+    <string name="textPowerIndText">"Power 
+Percent:"</string>
+    <string name="textCpuIndText">"Cpu Percent
+(Cur/Max):"</string>
+    <string name="textTestResultIndText">"Final 
+Result:"</string>
+    <string name="casestate_begin">Testing...</string>
+    <string name="casestate_finished">Done</string>
+    <string name="casestate_failed">Failed</string>
+    <string name="casestate_aborted">Aborted</string>
+    <string name="caseresult_none">None</string>
+    <string name="caseresult_success">Success</string>
+    <string name="battery_level_too_low">Battery level lower than 30%, wait for charging a while</string>
+    <string name="battery_info_status_label">Battery status:</string>
+    <string name="battery_info_scale_label">Battery scale:</string>
+    <string name="battery_info_level_label">Battery level:</string>
+    <string name="battery_info_health_label">Battery health:</string>
+    <string name="battery_info_technology_label">Battery technology:</string>
+    <string name="battery_info_voltage_label">Battery voltage:</string>
+    <string name="battery_info_voltage_units">mV</string>
+    <string name="battery_info_temperature_label">Battery temperature:</string>
+    <string name="battery_info_temperature_units">° C</string>
+    <string name="battery_info_uptime">Time since boot:</string>
+    <string name="battery_info_awake_battery">Awake time on battery:</string>
+    <string name="battery_info_awake_plugged">Awake time when charging:</string>
+    <string name="battery_info_screen_on">Screen ON time:</string>
+    <string name="battery_info_status_unknown">Unknown</string>
+    <string name="battery_info_status_charging">Charging</string>
+    <string name="battery_info_status_charging_ac">(AC)</string>
+    <string name="battery_info_status_charging_usb">(USB)</string>
+    <string name="battery_info_status_discharging">Discharging</string>
+    <string name="battery_info_status_not_charging">Not charging</string>
+    <string name="battery_info_status_full">Full</string>
+    <string name="battery_info_health_unknown">Unknown</string>
+    <string name="battery_info_health_good">Good</string>
+    <string name="battery_info_health_overheat">Overheat</string>
+    <string name="battery_info_health_dead">Dead</string>
+    <string name="battery_info_health_over_voltage">Over voltage</string>
+    <string name="battery_info_health_unspecified_failure">Unknown error</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Font Chooser</string>
+    <string name="try_string">LETV Series!</string>
+    <string name="msg_nosdcard">SD-card is needed</string>
+    <string name="msg_set">Font will be applied after reboot</string>
+    <string name="btn_set">Set</string>
+    <string name="btn_reboot">Reboot</string>
+    <string name="btn_close">Close</string>
+    <string name="scale_string">Scale</string>
+</resources>

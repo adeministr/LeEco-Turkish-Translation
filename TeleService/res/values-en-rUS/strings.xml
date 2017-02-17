@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cb_menu_language">Language</string>
+    <string name="cb_menu_add_channel">Add channel</string>
+    <string name="cb_menu_channel_list">Channel list</string>
+    <string name="cb_dialog_title_language_choice">Set language</string>
+    <string name="cb_channel_dialog_channel_state">Enable channel</string>
+    <string name="cb_channel_dialog_edit_channel">Edit channel</string>
+    <string name="cb_menu_edit">Edit</string>
+    <string name="cb_error_channel_num">Enter channel number between 0 and 65534.</string>
+    <string name="cb_error_channel_name">The channel name cannot exceed 10 characters.</string>
+    <string name="cb_error_channel_id_exist">Channel number is taken.</string>
+    <string name="cb_all_languages">All languages</string>
+    <string name="cb_default_new_channel_name">New channel</string>
+    <string name="net_or_simcard_busy">Network or SIM Card is busy. Please retry later.</string>
+    <string name="plmn_list_setting_title">Preference settings</string>
+    <string name="network_type">Network Type</string>
+    <string name="confirm_flight_mode_title">Flight mode enabled</string>
+    <string name="confirm_flight_mode_msg">Turn off flight mode before using this number.</string>
+    <string name="confirm_radio_title">SIM card disabled</string>
+    <string name="confirm_radio_msg">Enable this SIM card before use.</string>
+    <string name="confirm_flight_mode_radio_title">Flight mode enabled and SIM disabled</string>
+    <string name="confirm_flight_mode_radio_msg">Turn off flight mode and enable SIM card before calling.</string>
+    <string name="confirm_unlock_msg">"The SIM card you're using is locked. Please unlock it first."</string>
+    <string name="confirm_roaming_title">Roaming reminder</string>
+    <string name="confirm_roaming_msg">"The SIM card you're using is in roaming status. Do you want to continue?"</string>
+    <string name="confirm_button_turn_off">Turn off</string>
+    <string name="confirm_button_turn_on">Turn on</string>
+    <string name="model_name">Model</string>
+    <string name="build_number">Build</string>
+    <string name="internationalRoam">International Roaming Settings</string>
+    <string name="sim_tab_info">Card slot %s</string>
+    <string name="sim_current_network">Card slot %s current network information</string>
+    <string name="sim_search_network">Card slot %s manual network selection</string>
+    <string name="current_network">Current network information</string>
+    <string name="search_network">Manual network selection</string>
+    <string name="roaming_service">International Roaming Toll-free Hotline</string>
+    <string name="signal_strength">Signal strength</string>
+    <string name="leui_search_network_tips">This action is valid only for current operation</string>
+    <string name="currentNetworkType">Connected network</string>
+    <string name="error_sim_card">The user card you inserted doesn’t match the device</string>
+    <string name="sim_cards_notify_summary">Please change to a China Telecom 4G user card promptly</string>
+    <string name="sim_card_bottom_title">This action will change your card’s activation status. Continue?</string>
+    <string name="sim_card_checkbox_summary">Mobile services on this user card will be preferred</string>
+    <string name="le_network_4G">4G priority (recommended)</string>
+    <string name="le_network_3G">3G priority</string>
+</resources>

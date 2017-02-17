@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="main_toggle_effects_title">Audio effects</string>
+    <string name="pr_title">Reverb:</string>
+    <string name="pr_summary">Additional room reverberation effects</string>
+    <string name="pr_dialog_title">Reverb preset</string>
+</resources>

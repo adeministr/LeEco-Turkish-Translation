@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yeniden Başlatma Ayarları</string>
+    <string name="reboot_label">Yeniden Başlat</string>
+    <string name="reboot_recovery_label">Recovery Modu</string>
+    <string name="reboot_bootloader_label">Bootloader Modu</string>
+    <string name="shutdown_label">Kapat</string>
+    <string name="reboot_dialog_message">Telefonunuz yeniden başlatılacak.</string>
+    <string name="reboot_dialog_title">Yeniden başlat</string>
+    <string name="reboot_recovery_dialog_title">Recovery Modu</string>
+    <string name="reboot_recovery_dialog_message">Telefonunuz Recovery modunda başlatılacak.</string>
+    <string name="reboot_bootloader_dialog_title">Bootloader Modu</string>
+    <string name="reboot_bootloader_dialog_message">Telefonunuz Bootloader modunda başlatılacak.</string>
+    <string name="shutdown_dialog_title">Kapat</string>
+    <string name="shutdown_dialog_message">Telefonunuz Kapatılacak.</string>
+    <string name="reboot_command">reboot</string>
+    <string name="reboot_recovery_command">reboot recovery</string>
+    <string name="reboot_bootloader_command">reboot bootloader</string>
+    <string name="shutdown_command">reboot -p</string>
+</resources>

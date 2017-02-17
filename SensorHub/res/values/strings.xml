@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sensor_hub_entry">SensorHub</string>
+    <string name="sensor_hub_error">SensorHub not support, exit</string>
+    <string name="register_error">%1$s register fail!</string>
+    <string name="register_done">%1$s register success!</string>
+    <string name="start_sensor">Start</string>
+    <string name="end_sensor">End</string>
+    <string name="running_summary">running</string>
+    <string name="space_summary" />
+    <string name="gesture_wake_up">Touch Gesture-WakeUp</string>
+    <string name="activity_title">Activity</string>
+    <string name="still_info">STILL :</string>
+    <string name="test_standing_info">Test STANDING :</string>
+    <string name="test_sitting_info">Test SITTING :</string>
+    <string name="test_lying_info">Test LYING :</string>
+    <string name="on_foot_info">ON FOOT :</string>
+    <string name="walking_info">WALKING :</string>
+    <string name="running_info">RUNNING :</string>
+    <string name="climbing_info">CLIMBING :</string>
+    <string name="on_bike_info">ON BICYCLE :</string>
+    <string name="in_vehicle_info">IN VEHICLE :</string>
+    <string name="tilting_info">TILTING :</string>
+    <string name="unknown_info">UNKNOWN :</string>
+    <string name="pedometer_title">Pedometer</string>
+    <string name="step_length_info">Step length in meter:</string>
+    <string name="step_frequency_info">Step frequency in Hz:</string>
+    <string name="clear_step">Clear Step counter</string>
+    <string name="accumulated_step_string">累计步数:</string>
+    <string name="total_step_string">本次总步数:</string>
+    <string name="accumulated_distance_string">累计距离:</string>
+    <string name="total_distance_string">本次总距离:</string>
+    <string name="step_length">Step length :</string>
+    <string name="sensor_set_button">Set</string>
+    <string name="set_step_message">"Ensure didn't input the step length?"</string>
+    <string name="init_number_str">0.0</string>
+    <string name="in_pocket_title">In Pocket</string>
+    <string name="in_pocket_info">In pocket confidence:</string>
+    <string name="enable_notify_sound">Enable notification sound</string>
+    <string name="smd_title">Significant Motion Detection</string>
+    <string name="smd_info">Significant motion detection:</string>
+    <string name="orginal_gesture_title">Google Gesture</string>
+    <string name="composite_sensor_title">Composite sensor</string>
+    <string name="pdr_title">PDR</string>
+    <string name="pdr_height_title">Height :</string>
+    <string name="pdr_weight_title">Weight :</string>
+    <string name="pdr_gender_title">Gender :</string>
+    <string name="pdr_step_len_title">Step-length :</string>
+    <string name="pdr_distance_title">Distance :</string>
+    <string name="pdr_step_title">Steps =</string>
+    <string name="pdr_step_len">Step-length =</string>
+    <string name="calc_start_title">Calculate Start</string>
+    <string name="calc_stop_title">Calculate Stop</string>
+    <string name="stationary_title">Stationary</string>
+</resources>

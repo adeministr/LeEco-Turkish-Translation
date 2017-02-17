@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="atd_camera_size_13m">4160x3120</string>
+    <string name="atd_camera_size_8m">3264x2448</string>
+    <string name="atd_camera_size_5m">2560x1920</string>
+    <string name="atd_camera_size_2m">1600x1200</string>
+    <string name="cameraback_name">CameraBack</string>
+    <string name="cameraback_takepicture">Take picture</string>
+    <string name="cameraback_fail_open">Camera open Fail, please Check Camera Installed Correctly!</string>
+    <string name="camerafront_name">CameraFront</string>
+    <string name="camerafront_takepicture">Take picture</string>
+    <string name="pass">Pass</string>
+    <string name="fail">Fail</string>
+    <string name="retest_button">Retest</string>
+    <string name="app_name">TpTest</string>
+</resources>

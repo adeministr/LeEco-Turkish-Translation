@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NetworkLocation</string>
+    <string name="app_label">Network Location</string>
+    <string name="location_warning_title">Location consent</string>
+    <string name="location_warning_title_first">Location consent</string>
+    <string name="location_warning_title_close">Location consent</string>
+    <string name="location_warning_message">"When the NLP function is installed and opened, Baidu location services will collect anonymous location data. Without your consent, location data will not be sent to Baidu. Some data may be stored on your device. 
+This may incur additional charges. The data collected will be used to find your location and improve accuracy. We ensure that your data will not be shared with other parties or be used for purposes other than providing services. The following data will be collected. 
+- ID, Signal Strength of WLAN AP to be surveyed from the periphery. 
+- ID, Signal Strength to be surveyed from the peripheral base station (for GSM and CDMA)."</string>
+    <string name="location_warning_message1">When the NLP function is installed and opened, Baidu location services will collect anonymous location data. Without your consent, location data will not be sent to Baidu. Some data may be stored on your device.</string>
+    <string name="location_warning_message2">This may incur additional charges. The data collected will be used to find your location and improve accuracy. We ensure that your data will not be shared with other parties or be used for purposes other than providing services. The following data will be collected.</string>
+    <string name="location_warning_message3">ID, Signal Strength of WLAN AP to be surveyed from the periphery.</string>
+    <string name="location_warning_message4">ID, Signal Strength to be surveyed from the peripheral base station (for GSM and CDMA).</string>
+    <string name="location_warning_message5">-</string>
+    <string name="location_close_warning_message">Closed NetworkLocation service will cause any application can not location.</string>
+    <string name="location_first_warning_message">In order to bring you a better user experience, the system will open network location service.</string>
+    <string name="location_warning_title_1">Location consent</string>
+    <string name="location_warning_title_first_1">Location consent</string>
+    <string name="location_warning_title_close_1">Location consent</string>
+    <string name="location_warning_message_1">"Allow Baidu's location service to collect anonymous location data. Without your consent, location data will not be sent to Baidu. Some data may be stored on your device. Applicable data usage fees may apply during this process."</string>
+    <string name="location_warning_message_one">Allow to turn on Location with GPS and/or the NLP function.</string>
+    <string name="location_warning_message_two">When the NLP function is installed and open, the content provider will collect and encrypt anonymous location data. This may incur additional charges.</string>
+    <string name="location_warning_message_three">Tap to see content before agreeing</string>
+    <string name="always_wifi_scan_tip_four">Enable Always allow scanning to scan for nearby WLANs, even when WLAN is turned off.</string>
+    <string name="never_show_tip">Do not show again</string>
+    <string name="always_wifi_scan_tip_tittle">Always allow scanning</string>
+    <string name="always_wifi_scan_tip_content">Allow network location service and applications to scan for WLANs, even when WLAN is turned off</string>
+    <string name="agree">Agree</string>
+    <string name="disagree">Disagree</string>
+    <string name="close_agree">Yes</string>
+    <string name="close_disagree">No</string>
+</resources>
