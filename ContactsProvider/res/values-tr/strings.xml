@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown">Bilinmiyor</string>
+    <string name="calllog_provider_label">Arama Kaydı</string>
+    <string name="blacklist_provider_label">Kara liste</string>
+    <string name="sharedUserLabel">Android Çekirdek Uygulamaları</string>
+    <string name="app_label">Kişiler Depolama</string>
+    <string name="provider_label">Kişiler</string>
+    <string name="upgrade_msg">Kişiler veritabanını yükseltiliyor.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Kişiler yükseltme daha fazla bellek ihtiyacı var.</string>
+    <string name="upgrade_out_of_memory_notification_title">Kişiler için depolama yükseltiliyor</string>
+    <string name="upgrade_out_of_memory_notification_text">Yükseltmeyi tamamlamak için dokunun.</string>
+    <string name="default_directory">Kişiler</string>
+    <string name="local_invisible_directory">Diğer</string>
+    <string name="voicemail_from_column">"Sesli mesaj "</string>
+    <string name="debug_dump_title">Kişiler veritabanını kopyala</string>
+    <string name="debug_dump_database_message">1) iç depolama için tüm kişiler ile ilgili bilgileri içeren veritabanının bir kopyasını ve tüm arama kaydı yapmak için, ve 2) e-posta üzeresiniz. Başarılı bir aygıt ya da e-posta aldım kapalı kopyalamış en kısa sürede bir kopyasını silmek için unutmayın.</string>
+    <string name="debug_dump_delete_button">Şimdi sil</string>
+    <string name="debug_dump_start_button">Başlat</string>
+    <string name="debug_dump_email_sender_picker">Dosya göndermek için bir program seçin</string>
+    <string name="debug_dump_email_subject">Kişiler Db ekli</string>
+    <string name="debug_dump_email_body">Tüm rehber bilgileri ile veritabanı Bağlantılarım bağlı. Dikkatli tutun.</string>
+    <string name="group_title_co_workers">İş Arkadaşları</string>
+    <string name="group_title_family">Aile</string>
+    <string name="group_title_friends">Arkadaşlar</string>
+    <string name="missing_name">(İsim yok)</string>
+    <string name="contact_event_title" formatted="false">"%1s's %2s"</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sharedUserLabel">Android Çekirdek Uygulamaları</string>
+    <string name="app_label">Arama Kaydı Yedekle/Geri Yükle</string>
+</resources>

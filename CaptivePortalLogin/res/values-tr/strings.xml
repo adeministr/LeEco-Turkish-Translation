@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="action_use_network">Bu ağı kullanın</string>
+    <string name="action_do_not_use_network">Bu ağı kullanmayın</string>
+    <string name="action_bar_label">Ağ için oturum açın</string>
+    <string name="ssl_error_warning">Katılmak için çalışıyoruz ağ güvenlik sorunları var.</string>
+    <string name="ssl_error_example">Örneğin, giriş sayfası gösterilen kuruluşa ait olmayabilir.</string>
+    <string name="ssl_error_continue">Yine de tarayıcı üzerinden devam</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dirac Kontrol Hizmeti</string>
+    <string name="provider_name">Filtreler</string>
+    <string name="internal_device">Dahili hoparlör</string>
+    <string name="internal_device.panorama">Panorama</string>
+    <string name="internal_device.powersound">GüçlüSes</string>
+    <string name="running_debug">Dirac Kontrol Hizmetinin hata ayıklama sürümü</string>
+    <string name="running_debug_effect">Debug version of Dirac effect on release version of Dirac Control Service</string>
+    <string name="running_release_effect">Release version of Dirac effect on debug version of Dirac Control Service</string>
+</resources>

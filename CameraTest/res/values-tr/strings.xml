@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="atd_camera_size_13m">4160x3120</string>
+    <string name="atd_camera_size_8m">3264x2448</string>
+    <string name="atd_camera_size_5m">2560x1920</string>
+    <string name="atd_camera_size_2m">1600x1200</string>
+    <string name="cameraback_name">Arka Kamera</string>
+    <string name="cameraback_takepicture">Fotoğraf Çek</string>
+    <string name="cameraback_fail_open">Kamera açılırken hata oluştu, lütfen kameranın doğru takıldığından emin olun!</string>
+    <string name="camerafront_name">Ön Kamera</string>
+    <string name="camerafront_takepicture">Fotoğraf Çek</string>
+    <string name="pass">Geçti</string>
+    <string name="fail">Hata</string>
+    <string name="retest_button">Yeniden Test Et</string>
+    <string name="app_name">Kamera Testi</string>
+</resources>
