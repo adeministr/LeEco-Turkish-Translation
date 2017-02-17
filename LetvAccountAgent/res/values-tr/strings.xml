@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="letv_iptv_service_addr">sso.letv.com/oauthapp</string>
+    <string name="letv_checkuid_service_addr">sso.letv.com</string>
+    <string name="letv_iptv_recharge_service_addr">api.itv.letv.com</string>
+    <string name="app_name">Leeco hesap girişi</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="popauth">The app will get the following access after login</string>
+    <string name="protocol">Genel bilgilere erişim (kullanıcı adı simgesi)</string>
+    <string name="ifneed_auth">Onayınız gerekiyor</string>
+    <string name="get_auth_info">Erişim bağlama bilgileri</string>
+    <string name="auto_auth">Otomatik yetkilendirme</string>
+    <string name="auth">Yetkileri onayla</string>
+    <string name="prompt_setting_permissions">Ayarlarda uygulamayla ilgili izinleri verin</string>
+    <string name="toast_network_disconnected">Ağa bağlanılamıyor. Lütfen bağlantınızı kontrol edin.</string>
+    <string name="auth_fail">Yetkilendirme başarısız oldu</string>
+    <string name="token_error_relogin">Yetkilendirme başarısız oldu. Lütfen LeEco hesabınızda tekrar oturum açın.</string>
+    <item type="string" name="APKTOOL_DUMMY_f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_10">false</item>
+    <item type="string" name="APKTOOL_DUMMY_11">false</item>
+    <item type="string" name="APKTOOL_DUMMY_12">false</item>
+    <item type="string" name="APKTOOL_DUMMY_13">false</item>
+    <item type="string" name="APKTOOL_DUMMY_14">false</item>
+    <item type="string" name="APKTOOL_DUMMY_15">false</item>
+    <item type="string" name="APKTOOL_DUMMY_16">false</item>
+    <item type="string" name="APKTOOL_DUMMY_17">false</item>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="orientation_eight">
+        <item>N</item>
+        <item>NE</item>
+        <item>E</item>
+        <item>SE</item>
+        <item>S</item>
+        <item>SW</item>
+        <item>W</item>
+        <item>NW</item>
+    </string-array>
+    <string-array name="longitude_latitude" formatted="false">
+        <item>" &lt;font face='helve-neue'>%d° %d' %d\"&lt;/font> E"</item>
+        <item>" &lt;font face='helve-neue'>%d° %d' %d\"&lt;/font> W"</item>
+        <item>" &lt;font face='helve-neue'>%d° %d' %d\"&lt;/font> N"</item>
+        <item>" &lt;font face='helve-neue'>%d° %d' %d\"&lt;/font> S"</item>
+    </string-array>
+</resources>

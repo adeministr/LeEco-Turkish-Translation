@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DebugUtil</string>
+    <string name="sleep_sign">Sleep Sign On</string>
+    <string name="download_mode">Download Mode</string>
+    <string name="enable_logs">Enable All Logs</string>
+    <string name="enable_hangdump">Enable Hangdump</string>
+    <string name="enable_cdma">FDD-LTE/WCDMA</string>
+    <string name="reboot">Please restart your mobile phone.</string>
+</resources>

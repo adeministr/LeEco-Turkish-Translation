@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Free flow service</string>
+    <string name="flow_test">Loading...</string>
+    <string name="flow_get_code">Verification code</string>
+    <string name="flow_now_open">Confirm enabling</string>
+    <string name="flow_ask_noreceive">Verification code not received?</string>
+    <string name="flow_checkbox_tip">Agree to the Free Traffic Service Agreement</string>
+    <string name="flow_nosim_str1">The bound SIM card is not in the phone or the serial number of the SIM card has changed!</string>
+    <string name="flow_nosim_str2">Insert the SIM card to view/enable Free Traffic</string>
+    <string name="flow_expire_time_tip">Free Traffic expiration:</string>
+    <string name="flow_try_again">Unsuccessful, please try again</string>
+    <string name="bindapply_failed">Possible causes: 1. System service may be busy 2. Operator service failure</string>
+    <string name="rebind_failed">Possible causes: 1. Free Traffic has not been enabled for this phone number in this phone 2. System service may be busy 3. Operator service failure</string>
+    <string name="flow_skip">Skip</string>
+    <string name="flow_complete">Done</string>
+    <string name="flow_send_apply_tip">Bind request sent</string>
+    <string name="flow_open_success">Free Traffic service successfully bound</string>
+    <string name="flow_service_description">Every month enjoy</string>
+    <string name="flow_problem_tip">If you have any questions, please call %s or your operator</string>
+    <string name="flow_opening">Binding...</string>
+    <string name="flow_description">Traffic data is for reference only, for details refer to your local operator</string>
+    <string name="flow_flow_statis">Data usage for this month</string>
+    <string name="flow_total_size">Free monthly traffic</string>
+    <string name="flow_used_size">Used monthly traffic</string>
+    <string name="flow_remain_size">Monthly traffic remaining</string>
+    <string name="flow_query">Traffic query</string>
+    <string name="flow_use_instruction">Instructions</string>
+    <string name="flow_reopen">Rebind</string>
+    <string name="flow_reopen_service">Rebind Free Traffic service</string>
+    <string name="flow_scope">Scope of business</string>
+    <string name="flow_no_receive_verifycode">"1. Ensure the number belongs to you
+2. Check if the message was intercepted by security software
+3. If the number has been deactivated or blocked by the operator, inquire with the operator
+4. For more help, call customer service at 10109000"</string>
+    <string name="flow_no_receive_title">Verification code not received</string>
+    <string name="flow_reload">Reload</string>
+    <string name="flow_load_error">Failed to load</string>
+    <string name="flow_network_error">Please check your network</string>
+    <string name="flow_bind_phone">Bind phone numbers</string>
+    <string name="flow_free_flow_manager">Free Traffic management</string>
+    <string name="flow_wrong_phone_number">Please enter a valid phone number</string>
+    <string name="flow_input_phone_number">Please enter your bound phone number.</string>
+    <string name="flow_wrong_verifycode">Please enter a valid verification code</string>
+    <string name="flow_insert_simcard">Please insert SIM card.</string>
+    <string name="flow_input_verifycode_tip">Enter verification code</string>
+    <string name="flow_get_verifycode_fail">Unable to send verification code</string>
+    <string name="flow_get_verifycode_success">Verification code has been sent to: %s, please input then follow the instructions</string>
+    <string name="flow_not_receive_verifycode">This phone did not receive the verification code or the code has expired.</string>
+    <string name="flow_agree_tip">"You have still not agreed to the Free Traffic Service Agreement.
+You must carefully read and agree to the agreement before binding."</string>
+    <string name="flow_query_tips">Please visit the Mobile Business Hall for traffic inquiries.</string>
+    <string name="flow_status">Current status</string>
+    <string name="flow_bind_fail">Binding unsuccessful</string>
+    <string name="flow_reason">Description</string>
+    <string name="flow_unknow_reason">Unknown reason</string>
+    <string name="flow_call_service">Call customer service at %s</string>
+    <string name="flow_binded">Bound</string>
+    <string name="flow_effect_time">Valid from</string>
+    <string name="flow_expire_time">Expiration date</string>
+    <string name="flow_service_expired">Service expired</string>
+    <string name="flow_service_cancel">Service canceled</string>
+    <string name="flow_service_cancel_reason">"1. The bound SIM card has been replaced; 
+2. Something is wrong with the automatic monthly renewal; 
+3. Repeated activation has been performed within one month or other malicious actions;"</string>
+    <string name="flow_binding">Binding</string>
+    <string name="flow_cancel">Cancel</string>
+    <string name="flow_retry">Retry</string>
+    <string name="flow_next">Continue</string>
+    <string name="flow_next_step">Next</string>
+    <string name="flow_confirm_to_skip">Skip this step?</string>
+    <string name="bind_notice_title">Exclusive for ecophone users</string>
+    <string name="bind_notice_content">Bind your phone number and get a Free Traffic package</string>
+    <string name="bind_cancel_notice_title">Free Traffic service has been canceled.</string>
+    <string name="flow_notice_tip">Le Free Traffic service</string>
+    <string name="flow_get_imei_fail">Phone information could not be read, unable to collect Free Traffic</string>
+    <string name="flow_phone_number_null">Phone number is empty</string>
+    <string name="flow_slot_error">Card slot receiving the SMS verification code not detected.</string>
+    <string name="flow_slot_error2">Card slot error</string>
+    <string name="flow_slot_error3">Verification code error</string>
+    <string name="flow_sim_phone_separate">The bound SIM card is not in the phone or the serial number of the SIM card has changed</string>
+    <string name="flow_cu_scope">%s monthly Unicom traffic</string>
+    <string name="flow_cmcc_scope">%s monthly China Mobile traffic</string>
+    <string name="flow_use_this_number">Use this number to bind</string>
+    <string name="flow_use_another_number">Use another number to bind</string>
+    <string name="flow_service_bind">Free traffic open</string>
+    <string name="flow_bind_tips">Before binding, make sure this number can use mobile data on this device. After binding, you will not be able to change the number bound to Free Traffic</string>
+    <string name="bind_cancel_notice_content">Accessing LeEco services now will incur data charges</string>
+    <string name="flow_tips">Tips</string>
+    <string name="flow_bt_ok">Got it</string>
+    <string name="flow_simeky_empty">Failed to get the SIM card information, please reboot your phone and try again</string>
+    <string name="flow_get_phone_info_fail">Phone information could not be read</string>
+    <string name="flow_retry_bind">Retry</string>
+    <string name="flow_traffic_exceed">Traffic this month has run out</string>
+    <string name="flow_expire">Free traffic service has expired</string>
+    <string name="flow_service_exception">Service exception</string>
+    <string name="flow_error">Server data exception</string>
+    <string name="flow_no_sim">No SIM card</string>
+    <string name="flow_no_sim_explain">SIM card has been pulled out, unable to use free traffic</string>
+    <string name="flow_sim_change">SIM card changed</string>
+    <string name="flow_auto_bind_fail">Failed to activate the monthly renewal</string>
+    <string name="flow_unicom_auto_bind_fail">This month Unicom opened free traffic service failed. Your phone number may have money owed or have not yet valid package this month and cannot be automatically opened free traffic service, please contact the local Unicom operator, query the status of your phone number. We will try to open again for you every day.</string>
+    <string name="auto_bind_fail_title">Failed to activate the monthly renewal for traffic-free services</string>
+    <string name="flow_expire_title">Free traffic service has expired</string>
+    <string name="flow_expire_content">Accessing LeEco services now will incur data charges</string>
+    <string name="flow_exceed">Your Free Traffic allowance for this month has run out. Additional this will incur data charges.</string>
+    <string name="cmcc_bind_success">We recommend that you use the CMCC Client. This allows you to check your Free Traffic use at any time.</string>
+    <string name="unicom_bind_success">You can check your Free Traffic use by going to My Le - Free Traffic Management.</string>
+    <string name="cmcc_bindapply_fail">"Your phone number has not yet effective packages or overdue bills, temporarily unable to open free traffic service, please contact the local mobile operators, track the status of your mobile phone number.
+
+ We will send an app to the mobile daily, please timely attention to opening state."</string>
+    <string name="unicom_bindapply_fail">"Your phone number has not yet effective packages or overdue bills, temporarily unable to open free traffic service, please contact the local unicom operators, track the status of your mobile phone number.
+
+ We will send an app to the mobile daily, please timely attention to opening state."</string>
+    <string name="bind_free_flow_service_fail">Current phone number does not support the opening of free traffic.</string>
+    <string name="flow_bind_continue">Continue to open free traffic.</string>
+    <string name="flow_next_open_tips">Do not activate now</string>
+    <string name="flow_open_description">Free flow service cycle according to the nature of the month.It is recommended that you open service early this month.</string>
+    <string name="flow_notice_after_open">"Notes: 
+1. This traffic-free service is only available for ecophones, and changing the SIM card or replacing the mobile phone will invalidate this service; 
+2. This traffic-free service is only for Le-Ecosystem-related content; 
+3. Third-party traffic monitoring, internet proxy and VPN software programs and plug-ins may invalidate the traffic-free service, and you are recommended not to use any of them."</string>
+    <string name="flow_get_code_again">Resend</string>
+    <string name="tinyproxy_status">tinyproxy</string>
+    <string name="iptables_status">iptables</string>
+    <string name="black_iptables_status">black iptables</string>
+    <string name="iplist_status">iplist</string>
+    <string name="allow_status">allow</string>
+    <string name="binded_simkey">binded simkey</string>
+    <string name="network_data">network_data</string>
+    <string name="used_simkey">used simkey</string>
+    <string name="freetraffic_status">freetraffic_status</string>
+    <string name="auto_bind_fail_content">Accessing LeEco services now will incur data charges</string>
+    <string name="flow_input_phonenum_tip">Sorry, unable to obtain your mobile number, please enter it manually</string>
+    <string name="flow_select_number_tip">Select the mobile number that you want to bind with</string>
+    <string name="flow_can_not_binded_tip">Your mobile number does not meet the activation conditions of free traffic. For details, please refer to the business scope of the free traffic service.</string>
+    <string name="flow_not_find_simcard_tip">No SIM card has been detected, please activate after inserting a SIM card</string>
+    <string name="flow_verify_simcard_error_tip">The SIM card that received the verification code is not your selected SIM card, please return and perform again, thank you!</string>
+    <string name="flow_unknow_operator">Unknown</string>
+    <string name="alarm_status">alarm</string>
+    <string name="flow_name">Free traffic</string>
+    <string name="free_flow_mouth">%s months</string>
+    <string name="free_flow_cannot_use_tip">Sorry, your mobile phone does not have access to the free traffic service</string>
+    <string name="bind_free_flow_phone_status_fail">Server errors, please try again later</string>
+    <string name="flow_phone_status_open_description">"1. This mobile number has been used on another phone for activating free-traffic services, and this activation continues to consume the validity of traffic-free services on the other phone.
+2. You are recommended to activate traffic-free services at the beginning of a month as their service cycle is calculated by natural month."</string>
+    <string name="flow_phone_status_open_description_telecom">The traffic-free service has been claimed with this mobile number on another phone. No reactivation is required.</string>
+    <string name="telecom_bindapply_fail">The verification will take a long time to complete. Please view the activation status later.</string>
+    <string name="telecom_bind_success">"During the valid period of the service, you can watch LeEco's content on the Le app, the Live desktop and the LeView desktop. To view traffic usage, you are recommended to use the China Telecom mobile client or consult your local China Telecom business hall. Read the Instructions for Use for more information."</string>
+    <string name="telecom_bindapply_failed">"Possible failure reasons: 
+1. The system server is busy. 
+2. A failure occurred on the carrier's server. 
+3. China Telecom FlyYoung 4G custom packages, personal custom packages, internet surfing cards, duration-type packages and non-China Telecom cards are not supported for activating the traffic-free service. 
+4. The traffic-free service has been claimed with this phone or this mobile number."</string>
+    <string name="flow_telecom_scope">%s of China Telecom provincial targeted traffic per month</string>
+    <string name="flow_bind_fail_state">Failed to activate</string>
+    <string name="telecom_bindapply_failed_reason">"1. The system server is busy. 
+2. A failure occurred on the carrier's server. 
+3. China Telecom FlyYoung 4G custom packages, personal custom packages, internet surfing cards, duration-type packages and non-China Telecom cards are not supported for activating the traffic-free service. 
+4. The traffic-free service has been claimed with this phone or this mobile number."</string>
+    <string name="telecom_flow_query_tip">To view traffic usage, you are recommended to use the China Telecom mobile client or consult your local China Telecom business hall.</string>
+    <string name="telecom_verifycode_error">The verification code has expired or the server is not working properly. Please activate again.</string>
+    <string name="telecom_free_flow_mouth">Complimentary</string>
+    <string name="telecom_free_flow_time_tip">(subject to the carrier)</string>
+    <string name="telecom_flow_name">China Telecom provincial targeted traffic</string>
+    <string name="flow_onkeydown_tip">The busy network may cause a delay in receiving the text, returns will make the codes invalid</string>
+    <string name="flow_ok">OK</string>
+    <string name="flow_phone_number">Phone number</string>
+</resources>

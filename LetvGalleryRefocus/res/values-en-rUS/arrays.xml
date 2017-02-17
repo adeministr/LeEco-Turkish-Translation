@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="star">
+        <item>Movies and dramas</item>
+        <item>Entertainment News</item>
+        <item>Wallpapers</item>
+        <item>Hit singles</item>
+        <item>Music albums</item>
+        <item>Related artists</item>
+        <item>Related tweets</item>
+        <item>Related websites</item>
+    </string-array>
+    <string-array name="player">
+        <item>Movies and dramas</item>
+        <item>Sports News</item>
+        <item>Wallpapers</item>
+        <item>None</item>
+        <item>Music albums</item>
+        <item>None</item>
+        <item>Related tweets</item>
+        <item>Related websites</item>
+    </string-array>
+    <string-array name="movie">
+        <item>Movies and dramas</item>
+        <item>Entertainment News</item>
+        <item>Wallpapers</item>
+        <item>Soundtracks</item>
+        <item>None</item>
+        <item>Related artists</item>
+        <item>None</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="team">
+        <item>Movies and dramas</item>
+        <item>Relevant news</item>
+        <item>Wallpapers</item>
+        <item>Related music</item>
+        <item>None</item>
+        <item>None</item>
+        <item>None</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="brand">
+        <item>None</item>
+        <item>Brand News</item>
+        <item>Wallpapers</item>
+        <item>Label music</item>
+        <item>None</item>
+        <item>None</item>
+        <item>Related tweets</item>
+        <item>Related websites</item>
+    </string-array>
+    <string-array name="region">
+        <item>None</item>
+        <item>Related videos</item>
+        <item>Wallpapers</item>
+        <item>None</item>
+        <item>None</item>
+        <item>None</item>
+        <item>Related tweets</item>
+        <item>None</item>
+    </string-array>
+</resources>

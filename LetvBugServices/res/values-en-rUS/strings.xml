@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="switch_open">Open</string>
+    <string name="oper_step_desc">"Please try and reproduce the bug by following the same steps and then close the log.
+ Example:
+1. Which apps were open
+ 2. What you did (which button did you press, etc.)
+ 3. System force quit after 5 seconds"</string>
+    <string name="auto_report">Type: auto report</string>
+    <string name="status_failed">Status: Log upload failed</string>
+    <string name="commit_message_close_log">Successfully submitted. Please turn off the log switch for %1$s.</string>
+    <string name="log_uploaed_failed_reason">Unable to upload log. Reason: %1$s</string>
+    <string name="delete_log_messag">Are yout sure to delete log?</string>
+    <string name="commit_message_nonet">No network connection detected. Please enable Wi-Fi or mobile data.</string>
+    <string name="no_description">Please enter at least 10 characters.</string>
+    <string name="no_contact">No contact information provided.</string>
+    <string name="close_wran_msg">"You are turning off all offline logs. 
+ (1) Tap Cancel to return to the configuration page and keep capturing offline logs.
+(2) Tap Delete directly to delete all cached offline logs without archiving.
+ (3) Tap Archive and delete to archive and delete all cached offline logs."</string>
+</resources>

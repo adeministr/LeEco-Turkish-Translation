@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="boardCashier_dialog">
+        <item>Payment Center</item>
+        <item>Order Number</item>
+        <item>Order Date</item>
+        <item>Order total:</item>
+        <item>Continue</item>
+        <item>Paying</item>
+        <item>Payment unsuccessful.</item>
+        <item>Retry</item>
+        <item>Payment successful.</item>
+        <item>Network disconnected!</item>
+        <item>"Please check your network connection
+and try again later."</item>
+        <item>Retry</item>
+        <item>OK</item>
+        <item>Total: %1s</item>
+        <item>Transaction Cancelled</item>
+        <item>"Agree to pay with the following
+ PayPal Account?"</item>
+        <item>Payment successful.</item>
+        <item>Cancel</item>
+    </string-array>
+</resources>

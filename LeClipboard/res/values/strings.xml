@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="app_name">LeClipboard</string>
+    <string name="accessibility_service_description">LeClipboard Accessibility</string>
+    <string name="txt_clipboard">Clipboard</string>
+    <string name="txt_done">Finish</string>
+    <string name="txt_cancel">Cancel</string>
+    <string name="txt_shortcut">Shortcut</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="pref_header_general">General</string>
+    <string name="pref_title_keep_notification">Switch from notification</string>
+    <string name="pref_title_double_tap_open">Double tap to open</string>
+    <string name="pref_title_reserve_counts">Setting the reserve data counts</string>
+    <string name="pref_key_list_reserve_counts">pref_key_list_reserve_counts</string>
+    <string name="pref_key_notification">pref_key_switch_persist_notification</string>
+    <string name="pref_key_doubletap_open">pref_key_switch_doubletap_open</string>
+    <string name="back_button_label">Back</string>
+    <string name="next_button_label">Next</string>
+    <string name="skip_button_label">Skip</string>
+    <string name="pref_title_clearall">Clear datas</string>
+    <string name="text_delete_all">Delete All</string>
+    <string name="text_confirm">Confirm</string>
+    <string name="text_search">Search</string>
+    <string name="text_share">Share</string>
+    <string name="text_copy">Copy</string>
+    <string name="text_savetonote">Save to note</string>
+    <string name="text_delete">Delete</string>
+    <string name="text_setasprivate">Set as private</string>
+    <string name="text_edit">Edit</string>
+</resources>

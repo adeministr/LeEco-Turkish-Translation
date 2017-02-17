@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="cube_ptr_seconds_ago">
+        <item quantity="other">seconds ago</item>
+        <item quantity="one">second ago</item>
+    </plurals>
+    <plurals name="cube_ptr_minutes_ago">
+        <item quantity="other">minutes ago</item>
+        <item quantity="one">minute ago</item>
+    </plurals>
+    <plurals name="cube_ptr_hours_ago">
+        <item quantity="other">hours ago</item>
+        <item quantity="one">hour ago</item>
+    </plurals>
+</resources>
