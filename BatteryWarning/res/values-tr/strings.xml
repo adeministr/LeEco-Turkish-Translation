@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_charger_over_voltage">Aşırı Şarj Voltajı</string>
+    <string name="title_battery_over_temperature">Aşırı Batarya Sıcaklığı</string>
+    <string name="title_over_current_protection">Aşırı Akım Koruma</string>
+    <string name="title_battery_over_voltage">Aşırı Batarya Voltajı</string>
+    <string name="title_safety_timer_timeout">Aşırı Şarj Süresi</string>
+    <string name="title_battery_low_temperature">Düşük Pil Sıcaklığı</string>
+    <string name="title_battery_extreme_temperature">Aşırı Pil Sıcaklık</string>
+    <string name="msg_charger_over_voltage">Şarj cihazınız aşırı voltaj şarj cihazının bağlantısını kesin lütfen!</string>
+    <string name="msg_battery_over_temperature">Piliniz sıcaklığı bitti, şarj cihazının bağlantısını kesin lütfen!</string>
+    <string name="msg_over_current_protection">Pil akım koruması, lütfen pili çıkarın!</string>
+    <string name="msg_battery_over_voltage">Piliniz aşırı voltaj pili çıkarın lütfen!</string>
+    <string name="msg_safety_timer_timeout">Şarj süresi çok uzun, şarj cihazının bağlantısını kesin lütfen!</string>
+    <string name="msg_battery_low_temperature">Piliniz sıcaklığı çok düşük, şarj cihazının bağlantısını kesin lütfen!</string>
+    <string name="msg_battery_extreme_temperature">Piliniz sıcaklığı aşırı yüksek, cep telefonu otomatik olarak kapanacaktır!</string>
+    <string name="btn_ok_msg">Ertele</string>
+    <string name="btn_cancel_msg">Reddet</string>
+    <string name="thermal_over_temperature">veri hizmeti nedeniyle haberleşme modülü aşırı ısınma ile sınırlıdır. aşırı ısınma devam ederse, iletişim modülü kapatılacak. iyi bir sinyal ile serin bir bir yere taşıyın, ya da ayarlarında 4G kapatın.</string>
+    <string name="thermal_clear_temperature">İletişim modülünün aşırı ısınma temizlenir. Tüm iletişim fonksiyonlarını yüklenir.</string>
+</resources>

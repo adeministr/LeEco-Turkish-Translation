@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Otomatik Çevirici</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="start_test_off">(KAPALI)Testi Başlat</string>
+    <string name="start_test_on">Testi Durdur (AÇIK)</string>
+    <string name="loops">Döngüler</string>
+    <string name="loop_1">1</string>
+    <string name="loop_50">50</string>
+    <string name="loop_100">100</string>
+    <string name="loop_200">200</string>
+    <string name="delete">Sil</string>
+    <string name="hot">sıcak</string>
+    <string name="warm">ılık</string>
+    <string name="cold">soğuk</string>
+    <string name="full">tam</string>
+    <string name="phone">Telefon</string>
+    <string name="phone_911">911</string>
+    <string name="phone_8378911">\#8378911</string>
+    <string name="phone_edit">Düzenle</string>
+    <string name="end_call">Son arama süresi</string>
+    <string name="phone_call">Telefon arama süresi</string>
+    <string name="settings">Ayarlar</string>
+    <string name="msg_permission_steps">İzinleri devre dışı bıraktıktan sonra, izin verin lütfen &lt;b>Ayarlar&lt;/b> -> &lt;b>Uygulamalar&lt;/b> -> &lt;i>Menü&lt;/i> -> &lt;i>Sistemi göster&lt;/i> -> &lt;b>Otomatik Çevirici&lt;/b> -> &lt;b>İzinler&lt;/b> tüm izinleri etkinleştirmek için</string>
+    <string name="a" />
+</resources>

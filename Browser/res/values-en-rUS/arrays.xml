@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="jrtt_report_essay_names">
+        <item>Ad</item>
+        <item>Vulgar</item>
+        <item>Repeat</item>
+        <item>Old-fashioned</item>
+        <item>Other-problems</item>
+    </string-array>
+    <integer-array name="jrtt_report_essay_values">
+        <item>23</item>
+        <item>7</item>
+        <item>1</item>
+        <item>20</item>
+        <item>0</item>
+    </integer-array>
+    <string-array name="jrtt_report_names">
+        <item>Ad</item>
+        <item>Vulgar</item>
+        <item>Repeat</item>
+        <item>Old-fashioned</item>
+        <item>Other-problems</item>
+    </string-array>
+    <string-array name="jrtt_report_user_names">
+        <item>Pornography</item>
+        <item>Marketing-Ad</item>
+        <item>Malicious-abuse</item>
+        <item>Other-problems</item>
+    </string-array>
+    <integer-array name="jrtt_report_user_values">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="jrtt_report_values">
+        <item>23</item>
+        <item>22</item>
+        <item>1</item>
+        <item>20</item>
+        <item>0</item>
+    </integer-array>
+    <string-array name="jrtt_weekday_names">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+</resources>
