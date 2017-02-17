@@ -16,7 +16,7 @@ Yaptığınız çalışmaları github üzerinden istek göndererek ya da http://
 * dil dosyaları xml olarak kodlanmıştır. xml'e ait özel işaretlerden kullanmanız gerekiyorsa " " içerisine yazılmalıdır:
 <string name="example">Türkiye'nin</string> hata verecektir. Doğrusu: <string name="example">"Türkiye'nin"</string> olacaktır.
 
-*yine en çok dikkat edilmesi gereken uygulamayı yazanın uygulamayı kişiselleştirebilmek için bazı değerleri ve varsayılan ayarları dil dosyasına gömdüklerinden bu alanların kesinlikle dokunulmaması gerektiğidir; eğer bu alanlar da tercüme edilirse uygulamada o alana girince uygulama kapanacaktır ya da ilgili alanlar çalışmayacaktır. Örnek:
+* yine en çok dikkat edilmesi gereken uygulamayı yazanın uygulamayı kişiselleştirebilmek için bazı değerleri ve varsayılan ayarları dil dosyasına gömdüklerinden bu alanların kesinlikle dokunulmaması gerektiğidir; eğer bu alanlar da tercüme edilirse uygulamada o alana girince uygulama kapanacaktır ya da ilgili alanlar çalışmayacaktır. Örnek:
     <string name="app_name">Yeniden Başlatma Ayarları</string>
     <string name="reboot_label">Yeniden Başlat</string>
     <string name="reboot_recovery_label">Recovery Modu</string>
