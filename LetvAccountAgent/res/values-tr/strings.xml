@@ -5,7 +5,7 @@
     <string name="letv_iptv_recharge_service_addr">api.itv.letv.com</string>
     <string name="app_name">Leeco hesap girişi</string>
     <string name="action_settings">Ayarlar</string>
-    <string name="popauth">The app will get the following access after login</string>
+    <string name="popauth">Girişten sonra uyugalama şu izinlere sahip olacak </string>
     <string name="protocol">Genel bilgilere erişim (kullanıcı adı simgesi)</string>
     <string name="ifneed_auth">Onayınız gerekiyor</string>
     <string name="get_auth_info">Erişim bağlama bilgileri</string>
