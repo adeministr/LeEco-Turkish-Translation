@@ -1,42 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">BugPostbox</string>
-    <string name="readme">Submit log (tap to view detailed instructions)</string>
-    <string name="msg_complete">Log submitted</string>
-    <string name="hello_world">"Displaying this screen means that you are using a beta version and the following issues may have occurred:
- \u00091. You used Bug Report to submit issues
- \u00092. Some apps or kernels crashed on your phone
+    <string name="app_name">Hata Bildirme Aracı</string>
+    <string name="readme">Kayıtları gönder (Daha fazla bilgi için dokunun)</string>
+    <string name="msg_complete">Kayıtlar Gönderildi</string>
+    <string name="hello_world">"Bu Ekranı görmenizin nedeni beta versiyonu kullanıyor olmanızdır.:
+ \u00091. Hata Gönderme aracını kullandınız.
+ \u00092. Bazı uygulamalar ya da Kernel hata verdi.
 
- Please make sure you are connected to a Wi-Fi network when submitting those issues. Our dedicated specialists will collect your submitted logs.
-
-
-
- This app is a sub-module of Bug Report, and currently developed by the BSP team. The final appearance of Bug Report will be decided by the UI team.
+ Hataları göndermeden önce internete bağlı olduğunuzdan emin olun. Özel uzmanımız gönderdiğiniz bilgileri değerlendirecek..
 
 
 
- Known issues: Logic error in this app may occur upon continuous issue submitting by users.
+ Bu uygulama Hata Gönderme Aracının alt modülüdür, ve şu ana BSP Team tarafından geliştirilmektedir. Hata raporunun son durumu UI takımı tarafından belirlenecektir..
 
- The zipped logs can be found at http://tj.letv.cn.
 
- Logs can only be uploaded over Wi-Fi. If Wi-Fi is turned off, no logs will be uploaded."</string>
-    <string name="action_settings">Settings</string>
-    <string name="msg_packaging">Zipping related log files</string>
-    <string name="msg_uploading">Uploading</string>
-    <string name="msg_upload_fail">Upload failed. Please try again later.</string>
-    <string name="msg_upload_fatal_fail">Unable to read log file. Upload failed.</string>
-    <string name="current_status">Current Status</string>
-    <string name="resend">Resend</string>
-    <string name="logfile_msg">Your log file is too big and hence has been saved locally for a valid period of 3 days. Please contact customer service as soon as possible.</string>
-    <string name="log_open_msg">"Offline log is running now, switch off when you don't need it."</string>
-    <string name="log_open_title">Offline log is running</string>
-    <string name="log_clear_zip_msg">Cleaning archiving logs now, functions suspended</string>
-    <string name="log_clear_zip_msg_over">Archiving logs cleaned up</string>
-    <string name="log_clear_zip_title">Archiving logs are being cleaned</string>
-    <string name="log_clear_msg">Cleaning off-line logs now</string>
-    <string name="log_clear_msg_over">Off-line logs cleaning is over</string>
-    <string name="log_clear_title">Cleaning off-line logs</string>
-    <string name="log_zip_msg">Zipping off-line logs now</string>
+
+ Bilinen hatalar: Kulannıcılar tarafından gönderilen hatalar sürekli oluşan mantık hatalarını beraberinde getirebilir.
+  Zip halinde Log kayıtları şu adreste :  http://tj.letv.cn.
+
+Kayıtlar sadece Wifi üzerinden yüklenebilir. Wifi kapalıysa yükleme yapılamayacaktır."</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="msg_packaging">Dosyalar sıkıştırılıyor</string>
+    <string name="msg_uploading">Yükleniyor</string>
+    <string name="msg_upload_fail">UYükleme başarısız.Tekrar deneyin</string>
+    <string name="msg_upload_fatal_fail">Kayıt dosyası okunamıyor. Yükleme başarısız.</string>
+    <string name="current_status">İlerleme</string>
+    <string name="resend">Tekrar Gönder</string>
+    <string name="logfile_msg">Kayıt dosyanız çok büyük olduğun yerel depolamaya 3 günlük geçerlilikle kaydedilmiştir. En kısa sürede müşteri hizmetleri ile iletişime geçiniz.</string>
+    <string name="log_open_msg">"Offline kayıtlar şu anda çalııyor, ihtiyacınız olmadığında bunu kapatın."</string>
+    <string name="log_open_title">Offline kayıtlar çalışıyor</string>
+    <string name="log_clear_zip_msg">Arşivlenen kayıtlar durduruluyor, erişim temizleniyor.</string>
+    <string name="log_clear_zip_msg_over">Arşivlenmiş kayıtlar temizleniyor</string>
+    <string name="log_clear_zip_title">Arşivlenmiş kayıtlar temizlendi</string>
+    <string name="log_clear_msg">Kayıtlar Temizleniyor</string>
+    <string name="log_clear_msg_over">Temizlik Bitti</string>
+    <string name="log_clear_title">Off-line kayıtlar temizlendi</string>
+    <string name="log_zip_msg">Çevrimdışı kayıtlar arşivleniyor</string>
     <string name="log_zip_msg_over">Off-line logs zipping is over</string>
     <string name="log_zip_title">Zipping off-line logs</string>
     <string name="log_change_title">Saving off-line logs status now</string>
