@@ -6,5 +6,5 @@
     <string name="enable_logs">Enable All Logs</string>
     <string name="enable_hangdump">Enable Hangdump</string>
     <string name="enable_cdma">FDD-LTE/WCDMA</string>
-    <string name="reboot">Please restart your mobile phone.</string>
+    <string name="reboot">Lütfen telefonu tekrar başlatın.</string>
 </resources>
