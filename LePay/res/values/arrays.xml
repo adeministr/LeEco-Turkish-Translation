@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="boardCashier_dialog">
-        <item>Payment Center</item>
-        <item>Order Number</item>
-        <item>Order Date</item>
-        <item>Order total:</item>
-        <item>Continue</item>
-        <item>Paying</item>
-        <item>Payment unsuccessful.</item>
+        <item>Ödeme Merkezi</item>
+        <item>Sipariş Numarası</item>
+        <item>Sipariş Tarihi</item>
+        <item>Sipariş Toplam:</item>
+        <item>Devam</item>
+        <item>Çdeniyor</item>
+        <item>Ödeme Başarısız</item>
         <item>Retry</item>
         <item>Payment successful.</item>
         <item>Network disconnected!</item>
