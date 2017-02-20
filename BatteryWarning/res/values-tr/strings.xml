@@ -7,15 +7,15 @@
     <string name="title_safety_timer_timeout">Aşırı Şarj Süresi</string>
     <string name="title_battery_low_temperature">Düşük Pil Sıcaklığı</string>
     <string name="title_battery_extreme_temperature">Aşırı Pil Sıcaklık</string>
-    <string name="msg_charger_over_voltage">Şarj cihazınız aşırı voltaj şarj cihazının bağlantısını kesin lütfen!</string>
-    <string name="msg_battery_over_temperature">Piliniz sıcaklığı bitti, şarj cihazının bağlantısını kesin lütfen!</string>
+    <string name="msg_charger_over_voltage">Şarj cihazınızda aşırı voltaj var. Şarj cihazının bağlantısını kesin lütfen!</string>
+    <string name="msg_battery_over_temperature">Piliniz çok sıcak, şarj cihazının bağlantısını kesin lütfen!</string>
     <string name="msg_over_current_protection">Pil akım koruması, lütfen pili çıkarın!</string>
-    <string name="msg_battery_over_voltage">Piliniz aşırı voltaj pili çıkarın lütfen!</string>
+    <string name="msg_battery_over_voltage">Piliniz üzerinde aşırı voltaj! Pili çıkarın lütfen!</string>
     <string name="msg_safety_timer_timeout">Şarj süresi çok uzun, şarj cihazının bağlantısını kesin lütfen!</string>
     <string name="msg_battery_low_temperature">Piliniz sıcaklığı çok düşük, şarj cihazının bağlantısını kesin lütfen!</string>
-    <string name="msg_battery_extreme_temperature">Piliniz sıcaklığı aşırı yüksek, cep telefonu otomatik olarak kapanacaktır!</string>
+    <string name="msg_battery_extreme_temperature">Pilinizin sıcaklığı aşırı yüksek, cep telefonu otomatik olarak kapanacaktır!</string>
     <string name="btn_ok_msg">Ertele</string>
     <string name="btn_cancel_msg">Reddet</string>
-    <string name="thermal_over_temperature">veri hizmeti nedeniyle haberleşme modülü aşırı ısınma ile sınırlıdır. aşırı ısınma devam ederse, iletişim modülü kapatılacak. iyi bir sinyal ile serin bir bir yere taşıyın, ya da ayarlarında 4G kapatın.</string>
-    <string name="thermal_clear_temperature">İletişim modülünün aşırı ısınma temizlenir. Tüm iletişim fonksiyonlarını yüklenir.</string>
+    <string name="thermal_over_temperature">İletişim modülü aşırı ısınmadan dolayı sınırlandırılır. Aşırı ısınma devam ederse, iletişim modülü kapatılacak. iyi sinyalalan bir yere veya serin bir bir yere taşıyın, ya da ayarlardan 4G kapatın.</string>
+    <string name="thermal_clear_temperature">İletişim modülünün aşırı ısınma sorunu giderilde. Tüm iletişim fonksiyonları yenilendi.</string>
 </resources>
