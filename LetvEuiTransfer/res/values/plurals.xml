@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="selected_data">
-        <item quantity="other">%d data items selected</item>
-        <item quantity="one">%d data item selected</item>
+        <item quantity="other">%d Veri maddeleri seçildi</item>
+        <item quantity="one">%d veri maddesi seçildi</item>
     </plurals>
 </resources>
