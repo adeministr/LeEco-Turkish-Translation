@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="send_confirm_email">"An activation email has been sent to: 
+    <string name="send_confirm_email">"Onay e-postası şu adrese gönderildi: 
 %s"</string>
-    <string name="send_again">Resend in %s seconds</string>
-    <string name="i_have_confirm">Activation complete</string>
-    <string name="giveup_activecode">The busy network may cause a delay in receiving the text message. Are you sure you want to log out?</string>
+    <string name="send_again"> %s Saniye sonra tekrar gönder</string>
+    <string name="i_have_confirm">Onaylama Tamamlandı</string>
+    <string name="giveup_activecode">Meşgul servis mesajın ulaşmasını geciktirmiş olabilir . Vazgeçtiğinizden Emin misiniz?</string>
 </resources>
