@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Le S3</string>
-    <string name="permission_cancel">Cancel</string>
+    <string name="permission_cancel">Vazgeç</string>
     <string name="permission_confirm">OK</string>
-    <string name="permission_request">Storage access is required before you can share, set now?</string>
-    <string name="toast_share_broken_picture">Failed because of broken picture.</string>
-    <string name="weibosdk_toast_share_canceled">Cancelled</string>
-    <string name="weibosdk_toast_share_failed">Failed, please try again.</string>
-    <string name="weibosdk_toast_share_success">Success</string>
+    <string name="permission_request">Paylaşmadan önce depolama izni verilmeli, onay veriyor musunuz?</string>
+    <string name="toast_share_broken_picture">Hatalı resim yüzünden başarısız oldu.</string>
+    <string name="weibosdk_toast_share_canceled">İptal edildi</string>
+    <string name="weibosdk_toast_share_failed">Tekrar deneyin.</string>
+    <string name="weibosdk_toast_share_success">Başarılı!</string>
     <string name="errcode_cancel">发送取消</string>
     <string name="errcode_deny">发送被拒绝</string>
     <string name="errcode_success">发送成功</string>
