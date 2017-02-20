@@ -6,20 +6,18 @@
         <item>Sipariş Tarihi</item>
         <item>Sipariş Toplam:</item>
         <item>Devam</item>
-        <item>Çdeniyor</item>
+        <item>Ödeniyor</item>
         <item>Ödeme Başarısız</item>
-        <item>Retry</item>
-        <item>Payment successful.</item>
-        <item>Network disconnected!</item>
-        <item>"Please check your network connection
-and try again later."</item>
-        <item>Retry</item>
+        <item>Tekrar Dene</item>
+        <item>Ödeme Başarılı.</item>
+        <item>Ağ Bağlantısı Kesildi</item>
+        <item>"İnternetinizi kontrol edin ve tekrar deneyin."</item>
+        <item>Tekrar Dene</item>
         <item>OK</item>
-        <item>Total: %1s</item>
-        <item>Transaction Cancelled</item>
-        <item>"Agree to pay with the following
- PayPal Account?"</item>
-        <item>Payment successful.</item>
-        <item>Cancel</item>
+        <item>Toplam: %1s</item>
+        <item>Ödeme İptal Edildi</item>
+        <item>"Paypal hesabıyla ödemeyi kabul ediyor musunuz?"</item>
+        <item>Ödeme Başarılı.</item>
+        <item>Vazgeç</item>
     </string-array>
 </resources>
