@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Phone Manager service</string>
-    <string name="power_notify_title">Battery usage reminder</string>
-    <string name="power_notify_content">" Attention: heavy battery usage in background"</string>
-    <string name="power_notify_action_noremind">Ignore app</string>
-    <string name="power_notify_action_clear">Close app</string>
-    <string name="le_string_week_not_notify">Do not remind again this week</string>
-    <string name="le_string_rubbish_clean_notify_title">Junk files found</string>
-    <string name="le_string_rubbish_clean_notify_text">&lt;font color=#eb3e2e>%1$s&lt;/font> junk files, tap to clean</string>
-    <string name="le_string_clean">Clean</string>
-    <string name="provider_label">Phone Manager</string>
+    <string name="app_name">Telefon Yöneticisi servisi</string>
+    <string name="power_notify_title">Batarya kullanımı hatırlatıcı</string>
+    <string name="power_notify_content">" Dikkat: Arkaplanda aşırı batarya kullanımı tespit edildi"</string>
+    <string name="power_notify_action_noremind">Yoksay</string>
+    <string name="power_notify_action_clear">Uyg Kapat</string>
+    <string name="le_string_week_not_notify">Bu hafta tekrar gösterme</string>
+    <string name="le_string_rubbish_clean_notify_title">Çöp dosyalar bulundu</string>
+    <string name="le_string_rubbish_clean_notify_text">&lt;font color=#eb3e2e>%1$s&lt;/font> Çöp dosya, Temizlemek İçin Dokun</string>
+    <string name="le_string_clean">Temizle</string>
+    <string name="provider_label">Telefon Yöneticisi</string>
 </resources>
