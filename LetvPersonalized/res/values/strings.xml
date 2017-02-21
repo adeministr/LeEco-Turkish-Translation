@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Custom Service</string>
-    <string name="personalized_update_title">Custom Resources Update</string>
-    <string name="personalized_update_description_reboot">Your custom resources are ready. Restart now?</string>
-    <string name="personalized_update_description_unreboot">Your custom resources are ready. Apply now?</string>
-    <string name="reboot_now">Restart</string>
-    <string name="perform_now">Apply</string>
-    <string name="tip_later">Remind me later</string>
-    <string name="prepar_data">Updating Custom Data...</string>
-    <string name="notification_title">New custom resources have been applied. Click to view</string>
-    <string name="personalized_update_description_reboot_2">Your %1$s customized resources are ready. Restart now?</string>
-    <string name="personalized_update_description_unreboot_2">Your %1$s customized resources are ready. Apply now?</string>
-    <string name="personalized_res_ready">Custom Resources</string>
-    <string name="personalized_res_ready_noti_title">Custom Resources</string>
-    <string name="personalized_res_ready_noti_content">New custom resources have been applied. Click to view</string>
-    <string name="personalized_res_failed_noti_content">Unable to apply new custom resources. Click to view</string>
-    <string name="personalized_res_ready_noti_content_2">Your %1$s customized resources have taken effect. Tap to view.</string>
-    <string name="personalized_res_failed_noti_content_2">Failed to apply your %1$s customized resources. Tap to view.</string>
-    <string name="permlab_personzlized">Read custom service data</string>
-    <string name="permdesc_personzlized">Read custom service data and receive custom service broadcast messages</string>
-    <string name="permlab_prompt_phone">Custom service requires phone permission</string>
-    <string name="permlab_prompt_phone_2">The %1$s customized services require the phone permissions.</string>
+    <string name="app_name">Özel Servis</string>
+    <string name="personalized_update_title">Özel Kaynak Güncellemesi</string>
+    <string name="personalized_update_description_reboot">Özel Kaynaklarınız Hazır. Yeniden Başlat?</string>
+    <string name="personalized_update_description_unreboot">Özel kaynaklar hazır. Uygulansın mı?</string>
+    <string name="reboot_now">Yeniden Başlat</string>
+    <string name="perform_now">Uygula</string>
+    <string name="tip_later">Sonra hatırlat</string>
+    <string name="prepar_data">Özel veriler güncelleniyor...</string>
+    <string name="notification_title">YEni özellikler yüklendi. Görke için tıklayın</string>
+    <string name="personalized_update_description_reboot_2"> %1$s Hazır. Yeniden Başlatılsın mı?</string>
+    <string name="personalized_update_description_unreboot_2"> %1$s Özelleştirlmiş kaynaklar yüklendi?</string>
+    <string name="personalized_res_ready">Özel Kaynaklar yüklendi</string>
+    <string name="personalized_res_ready_noti_title">Özel Kaynaklar</string>
+    <string name="personalized_res_ready_noti_content">Yeni özel kaynaklar yüklendi . Görmek için tıkla</string>
+    <string name="personalized_res_failed_noti_content">Özel kaynaklar yüklenemedi. Görmek için tıkla</string>
+    <string name="personalized_res_ready_noti_content_2"> %1$s Özel kaynaklar uygulandı. Görmek için tıkla.</string>
+    <string name="personalized_res_failed_noti_content_2">Uygulanamadı %1$s Görmek için tıkla.</string>
+    <string name="permlab_personzlized">Özel servis verilerini oku</string>
+    <string name="permdesc_personzlized">Özel servis verileri ve özel yayın mesajlarını oku.</string>
+    <string name="permlab_prompt_phone">Özel servis için telefon izinleri gerekir</string>
+    <string name="permlab_prompt_phone_2"> %1$s Özelleştirme servisleri ek izin gerektirir.</string>
     <item type="string" name="APKTOOL_DUMMY_15">false</item>
     <item type="string" name="APKTOOL_DUMMY_16">false</item>
     <string name="fetch_person">获取定制信息</string>
