@@ -10,12 +10,12 @@
         <item>其他</item>
     </string-array>
     <string-array name="reportnamelist">
-        <item>cheat</item>
-        <item>politics</item>
-        <item>porn</item>
-        <item>assault</item>
-        <item>violence</item>
-        <item>advertise</item>
-        <item>others</item>
+        <item>Hile</item>
+        <item>Politika</item>
+        <item>Porno</item>
+        <item>Kuşatma</item>
+        <item>Şiddet</item>
+        <item>Reklam</item>
+        <item>Diğerleri</item>
     </string-array>
 </resources>
