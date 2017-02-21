@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="entries_font_size">
-        <item>Small</item>
+        <item>Küçük</item>
         <item>Normal</item>
-        <item>Large</item>
+        <item>Büyük</item>
     </string-array>
 </resources>
