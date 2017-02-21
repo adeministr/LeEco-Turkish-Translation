@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="days">
-        <item quantity="other">%1$d days</item>
-        <item quantity="one">%1$d day</item>
+        <item quantity="other">%1$d Gün</item>
+        <item quantity="one">%1$d Gün</item>
     </plurals>
     <plurals name="plan_days_format">
-        <item quantity="other">%s days</item>
-        <item quantity="one">%s day</item>
+        <item quantity="other">%s Gün</item>
+        <item quantity="one">%s Gün</item>
     </plurals>
     <plurals name="text_time_day">
         <item quantity="other">剩余%1$s天</item>
@@ -27,11 +27,11 @@
         <item quantity="other">" %1$s 天"</item>
     </plurals>
     <plurals name="hours">
-        <item quantity="other">%1$d Hours</item>
-        <item quantity="one">%1$d Hour</item>
+        <item quantity="other">%1$d Saat</item>
+        <item quantity="one">%1$d Saat</item>
     </plurals>
     <plurals name="minutes">
-        <item quantity="other">%1$d Minutes</item>
-        <item quantity="one">%1$d Minute</item>
+        <item quantity="other">%1$d Saat</item>
+        <item quantity="one">%1$d Saat</item>
     </plurals>
 </resources>
