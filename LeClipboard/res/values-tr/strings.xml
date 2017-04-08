@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="app_name">LeClipboard</string>
+    <string name="accessibility_service_description">LeClipboard Erişebilirliği</string>
+    <string name="txt_clipboard">Clipboard</string>
+    <string name="txt_done">Bitir</string>
+    <string name="txt_cancel">Vazgeç</string>
+    <string name="txt_shortcut">Kısayol</string>
+    <string name="title_activity_settings">Ayarlar</string>
+    <string name="pref_header_general">Genel</string>
+    <string name="pref_title_keep_notification">Bildirimden değiştir</string>
+    <string name="pref_title_double_tap_open">Açmak için çift tıkla</string>
+    <string name="pref_title_reserve_counts">Reserve veri sayısı ayarlanıyor</string>
+    <string name="pref_key_list_reserve_counts">pref_key_list_reserve_counts</string>
+    <string name="pref_key_notification">pref_key_switch_persist_notification</string>
+    <string name="pref_key_doubletap_open">pref_key_switch_doubletap_open</string>
+    <string name="back_button_label">Geri</string>
+    <string name="next_button_label">İleri</string>
+    <string name="skip_button_label">Atla</string>
+    <string name="pref_title_clearall">Veriyi Temizle</string>
+    <string name="text_delete_all">Hepsini Sil</string>
+    <string name="text_confirm">Onayla</string>
+    <string name="text_search">Ara</string>
+    <string name="text_share">Paylaş</string>
+    <string name="text_copy">Kopyala</string>
+    <string name="text_savetonote">Not'a Kaydet</string>
+    <string name="text_delete">Sil</string>
+    <string name="text_setasprivate">Özel olarak ayarla</string>
+    <string name="text_edit">Düzenle</string>
+</resources>
