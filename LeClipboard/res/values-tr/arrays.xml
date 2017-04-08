@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_reserve_list_counts_titles">
+        <item>10</item>
+        <item>20</item>
+        <item>40</item>
+        <item>80</item>
+        <item>160</item>
+    </string-array>
+    <string-array name="pref_reserve_list_counts_values">
+        <item>10</item>
+        <item>20</item>
+        <item>40</item>
+        <item>80</item>
+        <item>160</item>
+    </string-array>
+    <string-array name="menu_items_phone">
+        <item>Numarayı ara</item>
+        <item>SMS Gönder</item>
+        <item>Numarayı Kaydet</item>
+        <item>Numarayı Gir</item>
+    </string-array>
+    <string-array name="menu_items_email">
+        <item>E-posta Gönder</item>
+        <item>E-posta Gir</item>
+    </string-array>
+    <string-array name="menu_items_url">
+        <item>Adresi Görüntüle</item>
+        <item>Adresi Gir</item>
+    </string-array>
+</resources>
