@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Telefon Yöneticisi servisi</string>
     <string name="power_notify_title">Batarya kullanımı hatırlatıcı</string>
-    <string name="power_notify_content">" Dikkat: Arkaplanda aşırı batarya kullanımı tespit edildi"</string>
+    <string name="power_notify_content">"Dikkat: Arkaplanda aşırı batarya kullanımı tespit edildi"</string>
     <string name="power_notify_action_noremind">Yoksay</string>
     <string name="power_notify_action_clear">Uyg Kapat</string>
     <string name="le_string_week_not_notify">Bu hafta tekrar gösterme</string>
