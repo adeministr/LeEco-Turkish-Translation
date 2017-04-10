@@ -2,8 +2,8 @@
 <resources>
     <string name="string_more_correction_error_dialg_msg">"Mesaj kalibrasyonu  %1$s defa başarısız oldu %1$s , Neden olabilecekler:
 \u0009\u0009 1. Hat bilginiz düzgün yapılandırılmamış olabilir. 
-\u0009\u0009 2. Ağ çevrim dışı ya da dengesiz..
-\u0009\u0009 3. Kalibrasyon serveri meşgül.
+\u0009\u0009 2. Ağ çevrim dışı ya da dengesiz.
+\u0009\u0009 3. Kalibrasyon serveri meşgul.
 \u0009\u0009 4. Bulunduğunuz yerde sinyal zayıf.
 \u0009\u0009 5. Telefon hesabında yetersiz denge yada ağ sıkıntısı.
   Lütfen  bu hata sebeplerini gözden geçirin ve tekrar kalibrasyonu deneyin."</string>
