@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ANT HAL Hizmeti</string>
+    <string name="permdesc_antradio">Uygulamanın, ANT radyosunu doğrudan yapılandırmasına izin verir. Kötü amaçlı uygulamalar ANT Radyo Hizmetinin diğer uygulamalara ANT işlevselliği sağlamasını engelleyebilir.</string>
+    <string name="permlab_antradio">ANT donanımını kullan</string>
+    <string name="permdesc_ant">Uygulamanın, proxy hizmetini kullanarak ANT cihazlarıyla iletişimine izin verir. Kötü amaçlı uygulamalar, bilginiz olmadan ANT cihazlarından bilgi alabilir veya iletebilir.</string>
+    <string name="permlab_ant">ANT radyo arabirimini kullan</string>
+    <string name="permdesc_antAdmin">Uygulamanın ANT radyosunu proxy hizmeti aracılığıyla doğrudan yapılandırmasına izin verir. Kötü amaçlı uygulamalar, diğer ANT uygulamalarının ANT aygıtlarına bağlanmasını engelleyebilir.</string>
+    <string name="permlab_antAdmin">ANT radyo yapılandırmasını kontrol et</string>
+</resources>
