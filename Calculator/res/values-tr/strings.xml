@@ -108,5 +108,5 @@
     <string name="eDesc">e</string>
     <string name="piDesc">π</string>
     <string name="equalDesc">=</string>
-    <string name="oversize">50 den fazla karakter kopyalanamıyor</string>
+    <string name="oversize">"50'den fazla karakter kopyalanamıyor"</string>
 </resources>
