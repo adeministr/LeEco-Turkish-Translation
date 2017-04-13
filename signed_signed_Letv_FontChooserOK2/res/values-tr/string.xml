@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Font Seçici</string>
+    <string name="try_string">LETV Series!</string>
+    <string name="msg_nosdcard">SD-card gerekiyor</string>
+    <string name="msg_set">Yazı tipi, yeniden başlattıktan sonra uygulanacak</string>
+    <string name="btn_set">Ayarla</string>
+    <string name="btn_reboot">Yeniden başlat</string>
+    <string name="btn_close">Kapat</string>
+    <string name="scale_string">Boyut</string>
+</resources>
