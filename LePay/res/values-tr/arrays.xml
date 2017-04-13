@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="boardCashier_dialog">
+        <item>Ödeme Merkezi</item>
+        <item>Sipariş Numarası</item>
+        <item>Sipariş Tarihi</item>
+        <item>Sipariş Toplam:</item>
+        <item>Devam</item>
+        <item>Ödeniyor</item>
+        <item>Ödeme Başarısız</item>
+        <item>Tekrar Dene</item>
+        <item>Ödeme Başarılı.</item>
+        <item>Ağ Bağlantısı Kesildi</item>
+        <item>"İnternetinizi kontrol edin ve tekrar deneyin."</item>
+        <item>Tekrar Dene</item>
+        <item>OK</item>
+        <item>Toplam: %1s</item>
+        <item>Ödeme İptal Edildi</item>
+        <item>"Paypal hesabıyla ödemeyi kabul ediyor musunuz?"</item>
+        <item>Ödeme Başarılı.</item>
+        <item>Vazgeç</item>
+    </string-array>
+</resources>
