@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="orientation_eight">
+        <item>K</item>
+        <item>KD</item>
+        <item>D</item>
+        <item>GD</item>
+        <item>G</item>
+        <item>GB</item>
+        <item>B</item>
+        <item>KB</item>
+    </string-array>
+    <string-array name="longitude_latitude" formatted="false">
+        <item>" &lt;font face='helve-neue'>%d° %d' %d\"&lt;/font> D"</item>
+        <item>" &lt;font face='helve-neue'>%d° %d' %d\"&lt;/font> B"</item>
+        <item>" &lt;font face='helve-neue'>%d° %d' %d\"&lt;/font> K"</item>
+        <item>" &lt;font face='helve-neue'>%d° %d' %d\"&lt;/font> G"</item>
+    </string-array>
+</resources>
