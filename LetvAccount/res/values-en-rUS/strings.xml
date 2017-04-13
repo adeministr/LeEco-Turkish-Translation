@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="send_confirm_email">"Onay e-postası şu adrese gönderildi: 
-%s"</string>
-    <string name="send_again"> %s Saniye sonra tekrar gönder</string>
-    <string name="i_have_confirm">Onaylama Tamamlandı</string>
-    <string name="giveup_activecode">Meşgul servis mesajın ulaşmasını geciktirmiş olabilir . Vazgeçtiğinizden Emin misiniz?</string>
-</resources>
