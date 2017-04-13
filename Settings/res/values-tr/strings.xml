@@ -80,8 +80,8 @@
     <string name="wifi_security_passpoint">Geçiş noktası</string>
     <string name="settings_package">com.android.settings</string>
     <string name="certinstaller_package">com.android.certinstaller</string>
-    <string name="suw_next_button_label">İler</string>
-    <string name="suw_back_button_label">Ger</string>
+    <string name="suw_next_button_label">İleri</string>
+    <string name="suw_back_button_label">Geri</string>
     <string name="suw_more_button_label">Daha fazla</string>
     <string name="setup_wizard_next_button_label">İleri</string>
     <string name="setup_wizard_back_button_label">Geri</string>
@@ -624,7 +624,7 @@ Sistem veri bağlantınızı devre dışı bırakır"</string>
     <string name="wihd_display_starting">Turning WiHD on...</string>
     <string name="wireless_on_wihd_off">Kablosuz ekranı açarken WIHD kapatılacak, devam etmek istiyor musunuz?</string>
     <string name="wihd_on_wireless_off">WIHD açarken, kablosuz ekran kapatılacak, devam etmek istiyor musunuz?</string>
-    <string name="wihd_connect_exception">WIHD bağlantı hatası, kontrol edin ve yeniden bağlanmak veya vericiyi kapatın！</string>
+    <string name="wihd_connect_exception">WIHD bağlantı hatası, kontrol edin ve yeniden bağlanmak veya vericiyi kapatın</string>
     <string name="wifi_p2p_cancel_connect">bağlantı iptal</string>
     <string name="current_connected_device">cihaz bağlandı</string>
     <string name="avaliable_device">Kullanılabilir cihazlar</string>
@@ -708,7 +708,7 @@ Sistem veri bağlantınızı devre dışı bırakır"</string>
     <string name="wifi_secured_second_item">%1$s ile korunuyor</string>
     <string name="wifi_close_unavailable_dialog">Kapat</string>
     <string name="wifi_ok">Tamam</string>
-    <string name="wifi_input_password_left">"Lütfen parolasını girin "</string>
+    <string name="wifi_input_password_left">"Lütfen parolasını girin"</string>
     <string name="wifi_input_password_right" />
     <string name="wifi_failed_disconnect_message">Bağlantı kesilemedi</string>
     <string name="wifi_advanced_shortcut_connect_title">Kısayol güvenli bağlantı</string>
@@ -770,7 +770,7 @@ ile Tanışın"</string>
     <string name="wifi_wps_em_key">Anahtar</string>
     <string name="wifi_wps_em_ap_default">AP yapılandırma al</string>
     <string name="wifi_pin_code_title">PIN Kodu:</string>
-    <string name="wifi_confirm_config">Configure this AP ?</string>
+    <string name="wifi_confirm_config">Configure this AP?</string>
     <string name="wifi_open_mode">Açık modunu seçin</string>
     <string name="wifi_wps_add_device">WPS Kayıt Cihaz Ekle</string>
     <string name="wifi_p2p_nfc">NFC</string>
