@@ -27,7 +27,7 @@ Kayıtlar sadece Wifi üzerinden yüklenebilir. Wifi kapalıysa yükleme yapıla
     <string name="current_status">İlerleme</string>
     <string name="resend">Tekrar Gönder</string>
     <string name="logfile_msg">Kayıt dosyanız çok büyük olduğun yerel depolamaya 3 günlük geçerlilikle kaydedilmiştir. En kısa sürede müşteri hizmetleri ile iletişime geçiniz.</string>
-    <string name="log_open_msg">"Offline kayıtlar şu anda çalııyor, ihtiyacınız olmadığında bunu kapatın."</string>
+    <string name="log_open_msg">"Offline kayıtlar şu anda çalışıyor, ihtiyacınız olmadığında bunu kapatın."</string>
     <string name="log_open_title">Offline kayıtlar çalışıyor</string>
     <string name="log_clear_zip_msg">Arşivlenen kayıtlar durduruluyor, erişim temizleniyor.</string>
     <string name="log_clear_zip_msg_over">Arşivlenmiş kayıtlar temizleniyor</string>
@@ -36,7 +36,7 @@ Kayıtlar sadece Wifi üzerinden yüklenebilir. Wifi kapalıysa yükleme yapıla
     <string name="log_clear_msg_over">Temizlik Bitti</string>
     <string name="log_clear_title">Off-line kayıtlar temizlendi</string>
     <string name="log_zip_msg">Çevrimdışı kayıtlar arşivleniyor</string>
-    <string name="log_zip_msg_over">Off-line logs zipping is over</string>
+    <string name="log_zip_msg_over">Çevrimdışı kayıtlar arşivlendi</string>
     <string name="log_zip_title">Zipping off-line logs</string>
     <string name="log_change_title">Saving off-line logs status now</string>
     <string name="log_change_msg">Saving off-line logs status, please wait</string>
