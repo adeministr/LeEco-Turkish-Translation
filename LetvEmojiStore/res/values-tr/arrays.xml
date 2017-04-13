@@ -47,8 +47,8 @@
         <item>Müzik</item>
         <item>None</item>
         <item>None</item>
-        <item>Related tweets</item>
-        <item>Related websites</item>
+        <item>ilgili Tweetler</item>
+        <item>iligili Siteler</item>
     </string-array>
     <string-array name="region">
         <item>None</item>
