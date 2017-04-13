@@ -3,14 +3,14 @@
     <string name="wallpapers">Android Canlı Duvar Kağıdı</string>
     <string name="wallpaper_walkaround">Devamını Gör</string>
     <string name="wallpaper_walkaround_author">Google</string>
-    <string name="wallpaper_walkaround_desc">TElefonunuzdan görerek yürüyün ve kazalardan kaçının.</string>
+    <string name="wallpaper_walkaround_desc">Telefonunuzdan görerek yürüyün ve kazalardan kaçının.</string>
     <string name="wallpaper_clock">Polar Saat</string>
     <string name="wallpaper_clock_author">Google</string>
     <string name="wallpaper_clock_desc">Tarih ve zamanı şu şekilde gösterir: ay, gün, saat, dakika, ve saniye.</string>
     <string name="clock_settings">Polar Saat Ayarları</string>
     <string name="show_seconds">Saniyeleri Göster</string>
     <string name="variable_line_width">Vary ring widths</string>
-    <string name="palette">Color palette</string>
+    <string name="palette">Renk paleti</string>
     <string name="palette_gray">Demir</string>
     <string name="palette_violet">Gece Yarısı</string>
     <string name="palette_matrix">Yeşil Ekran</string>
@@ -18,7 +18,7 @@
     <string name="palette_black_c">Kara Delik (dynamic)</string>
     <string name="palette_halloween">Kabaklı Pasta</string>
     <string name="palette_zenburn">Uzaylı Meyve Salatsı</string>
-    <string name="palette_oceanic">Mavi LAzer</string>
+    <string name="palette_oceanic">Mavi Lazer</string>
     <string name="wallpaper_grass">Çimen</string>
     <string name="wallpaper_grass_author">Google</string>
     <string name="wallpaper_grass_desc">Blades of grass wave gently in front of a day or night sky.</string>
