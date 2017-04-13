@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Canlı Duvar Kağıdı Seçici</string>
+    <string name="live_wallpaper_picker_title"> Canlı Duvar Kağıdı Seç</string>
+    <string name="live_wallpaper_picker_label">Canlı Duvar Kağıdı</string>
+    <string name="live_wallpaper_preview_title">Canlı Duvar Kağıdı Önizleme</string>
+    <string name="configure_wallpaper">Ayarlar...</string>
+    <string name="wallpaper_instructions">Canlı Duvar Kağıdı olarak Ayarla</string>
+    <string name="live_wallpaper_empty"> Duvar Kağıdı yok.</string>
+    <string name="set_live_wallpaper">Canlı Duvar Kağıdını ayarla</string>
+    <string name="wallpaper_title_and_author">%1$s by %2$s</string>
+    <string name="live_wallpaper_loading"> Canlı Duvar Kağıdı yükleniyor...</string>
+    <string name="wallpaper_cancel">Vazgeç</string>
+    <string name="state_setting_as_wallpaper">Duvar Kağıdı olarak ayarla</string>
+    <string name="failed_loading_wallpaper"> Duvar Kağıdı Yüklenemedi</string>
+</resources>
