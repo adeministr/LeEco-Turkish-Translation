@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cihazımı Bul</string>
+    <string name="perm_service_bind">Uzak Bağlantı Servisi BAĞLA</string>
+    <string name="permdesc_service_bind">Cihaz bağlandığında bir kereliğine kilidini açabilir</string>
+    <string name="perm_service_send_broadcast">Uzak bağlantı izinlerini tanımlayın</string>
+    <string name="permdesc_service_send_broadcast">İzinler verildi, kilitle, kilidi aç veya veriyi sil.</string>
+    <string name="perm_service_broadcast">Uzak bağlantı yayını alındı</string>
+    <string name="permdesc_service_broadcast">Uzak bağlantı yayını alındı,kilitle, kilidi aç veya veriyi sil</string>
+    <string name="phone_control_data_network_error">Ağ Yok</string>
+    <string name="phone_control_data_not_get_imei_error">İmei alınıyor. Lütfen Bekleyin</string>
+    <string name="phone_control_data_report_result_error">Yanlış raporlama sonucu....</string>
+    <string name="phone_control_data_unlock_state_error">Telefonun açılması için yanlış ayar...</string>
+    <string name="phone_control_data_ok">ok</string>
+    <string name="phone_control_data_password_error">Yanlış Şifre...</string>
+    <string name="phone_control_data_server_error">Server Hatası</string>
+    <string name="phone_control_data_unknown_error">Bilinmeyen Hata</string>
+    <string name="phone_control_data_default_error">Bilinmeyen Hata...</string>
+    <string name="subpas">Kilidi AÇ</string>
+    <string name="phone_in_searching_title">Cihaz Aranıyor...</string>
+    <string name="phone_in_searching_ok">Tamamdır</string>
+    <string name="notification_locked_text">Telefon Kilitlendi</string>
+</resources>
