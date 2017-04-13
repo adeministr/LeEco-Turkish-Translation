@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="emotion_send">发送</string>
+    <string name="emotion_send">Gönder</string>
     <string name="no_comment">Yorum yok. Yorum yap.</string>
     <string name="le_comment_authormark">OP</string>
     <string name="le_comment_officialmark">V</string>
@@ -24,7 +24,7 @@
     <string name="post_comments">Yazı oluştur</string>
     <string name="inputbox_hint">Ana Başlık</string>
     <string name="no_network_info">Ağ bağlantısı başarısız. Kontrol edin.</string>
-    <string name="le_comment_isloading">AĞ Meşgul</string>
+    <string name="le_comment_isloading">Ağ Meşgul</string>
     <string name="le_commpost_isuploading">Gönderliliyor, bekleyin</string>
     <string name="network_setting">Ağları Ayarla</string>
     <string name="nomore_data">Yok</string>
@@ -45,7 +45,7 @@
     <string name="login_refuse">İptal</string>
     <string name="string_divpot">,</string>
     <string name="star_page_reloading">Yenile</string>
-    <string name="star_page_reloading_word">Aü hatası, Ağı kontrol edin</string>
+    <string name="star_page_reloading_word">Ağ hatası, Ağı kontrol edin</string>
     <string name="commentra_title">Yorumlar</string>
     <string name="le_commentrabtn_str">Daha Fazla</string>
     <string name="write_comment_btn_str">Yeni Yorum yaz</string>
