@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LetvEcoProvider</string>
+    <string name="subscribe_tag">Takip Et</string>
+    <string name="unsubscribe_tag">Takibi Bırak</string>
+</resources>
