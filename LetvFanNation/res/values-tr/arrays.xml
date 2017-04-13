@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reportreanamelist">
+        <item>欺诈信息</item>
+        <item>政治谣言</item>
+        <item>色情低俗</item>
+        <item>人身攻击</item>
+        <item>暴力恐怖</item>
+        <item>广告推广</item>
+        <item>其他</item>
+    </string-array>
+    <string-array name="reportnamelist">
+        <item>Hile</item>
+        <item>Politika</item>
+        <item>Porno</item>
+        <item>Kuşatma</item>
+        <item>Şiddet</item>
+        <item>Reklam</item>
+        <item>Diğerleri</item>
+    </string-array>
+</resources>
