@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_label">DRM Korumalı İçerik Depolama Alanı</string>
-    <string name="permlab_accessDrm">DRM içeriğine erişim.</string>
-    <string name="permdesc_accessDrm">Uygulamanın DRM korumalı içeriğe erişmesine izin verir.</string>
-    <string name="permlab_installDrm">DRM içeriğini yükle.</string>
-    <string name="permdesc_installDrm">Uygulamanın DRM korumalı içeriği yüklemesine izin verir.</string>
-</resources>
