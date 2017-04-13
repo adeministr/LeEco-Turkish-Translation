@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="star">
+        <item>Film ve Canlandırma</item>
+        <item>Eğlence Hanerleri</item>
+        <item>Duvar Kağıtları</item>
+        <item>Hit Parçalar</item>
+        <item>Muzik Albümleri</item>
+        <item>Sanatçılar</item>
+        <item>Tweetler</item>
+        <item>Websiteler</item>
+    </string-array>
+    <string-array name="player">
+        <item>Film ve Canlandırma</item>
+        <item>Spor Haberleri </item>
+        <item>Duvar Kağıtları</item>
+        <item>Hiçbiri</item>
+        <item>Musik Albümleri</item>
+        <item>None</item>
+        <item>Tweetler</item>
+        <item>Websiteler</item>
+    </string-array>
+    <string-array name="movie">
+        <item>Film ve Canlandırma</item>
+        <item>Entertainment News</item>
+        <item>Wallpapers</item>
+        <item>Soundtracks</item>
+        <item>None</item>
+        <item>Related artists</item>
+        <item>None</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="team">
+        <item>Movies and dramas</item>
+        <item>Haberler</item>
+        <item>Duvar Kağıdı</item>
+        <item>Müzik</item>
+        <item>None</item>
+        <item>None</item>
+        <item>None</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="brand">
+        <item>None</item>
+        <item>Son Çıkanlar</item>
+        <item>Duvar Kağıtları</item>
+        <item>Müzik</item>
+        <item>None</item>
+        <item>None</item>
+        <item>Related tweets</item>
+        <item>Related websites</item>
+    </string-array>
+    <string-array name="region">
+        <item>None</item>
+        <item>Videos</item>
+        <item>Wallpapers</item>
+        <item>None</item>
+        <item>None</item>
+        <item>None</item>
+        <item>Related tweets</item>
+        <item>None</item>
+    </string-array>
+</resources>
