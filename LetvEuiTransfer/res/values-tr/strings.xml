@@ -41,17 +41,17 @@
     <string name="le_sended">"Gönderildi: "</string>
     <string name="le_net_not_receiver">Ağ koşulları çok karmaşık</string>
     <string name="le_send_sucess_des">Veri Gönderildi: <g id="contain_folder">%1$s</g>, Geçen Zaman: <g id="folder_type">%2$s</g></string>
-    <string name="le_barrety_toast">Batarya Seviyesi10% altında . ŞArja Takın</string>
+    <string name="le_barrety_toast">"Batarya Seviyesi 10% altında . Şarja Takın"</string>
     <string name="le_oversize">Yetersiz dahili hafıza</string>
     <string name="install_transfer">EUI Replacement Uyg. Yükle</string>
     <string name="transfer_restore">Veriyi Aktar</string>
     <string name="send_local">Veriyi Gönder</string>
     <string name="receive_multi">Veriyi Al</string>
-    <string name="receive_ios">iPhone'dan Al</string>
-    <string name="receive_eui">Ecophone'dan Al</string>
+    <string name="receive_ios">"iPhone'dan Al"</string>
+    <string name="receive_eui">"Ecophone'dan Al"</string>
     <string name="scan_install_tip">İndirmek için QR Kodunu tarat</string>
     <string name="install_tip"> EUI Replacement uygulamasını yükleyin</string>
-    <string name="install_tip_ios"> EUI Replacement Uygulamasını App Store'da Ara</string>
+    <string name="install_tip_ios">" EUI Replacement Uygulamasını App Store'da Ara"</string>
     <string name="install_tip_eui">Ya da Şu uygulamaya bak App Store: EUI Switcher</string>
     <string name="install_next_step">İleri</string>
     <string name="receive_list">Alınanlar Listesi</string>
@@ -92,7 +92,7 @@
     <string name="no_more_memory">Bu dosya  telefonun boş hafızasından daha büyük. Biraz yer açın.</string>
     <string name="low_power_warning">Batarya 10% Altında. Şarja Takın</string>
     <string name="le_type_denied">Reddedildi</string>
-    <string name="le_setup_wizard_tip">İzin verildiği halde Fast Transfer'e bağlanamıyorsanız. Şu Ayarları Takip edin &lt;font color=#2395ee>Settings > Baştan Başlat or transfer&lt;/font>.</string>
+    <string name="le_setup_wizard_tip">"İzin verildiği halde Fast Transfer'e bağlanamıyorsanız. Şu Ayarları Takip edin &lt;font color=#2395ee>Settings > Baştan Başlat or transfer&lt;/font>."</string>
     <string name="le_to_scan_label">Fast Transfer tarafından oluşturulan QR Kodunu Tara</string>
     <string name="le_scan_tip">Ayarlar > Yenile yada transfer et > Fast transfer, Göndermek içi tıkla, Gönderilecek dosyayı se., QR kodunu tara.</string>
     <string name="le_scan_key">LephoneSystem Ayarları> Baştan Başla ve  Düğmeler> Düğme</string>
