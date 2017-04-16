@@ -23,9 +23,9 @@
     <string name="permlab_prompt_phone_2"> %1$s Özelleştirme servisleri ek izin gerektirir.</string>
     <item type="string" name="APKTOOL_DUMMY_15">false</item>
     <item type="string" name="APKTOOL_DUMMY_16">false</item>
-    <string name="fetch_person">获取定制信息</string>
-    <string name="show_tip">显示提示框</string>
-    <string name="test_reboot_now">立即重启</string>
-    <string name="test_noti">测试通知</string>
-    <string name="test_prepare">准备页面</string>
+    <string name="fetch_person">Özelleştirilmiş Bilgi Al</string>
+    <string name="show_tip">İstemci kutusunu görüntüle</string>
+    <string name="test_reboot_now">Hızlı yeniden başlat</string>
+    <string name="test_noti">Test bildirimi</string>
+    <string name="test_prepare">Sayfa hazırlama</string>
 </resources>
