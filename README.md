@@ -5,7 +5,7 @@ LeEco (LeTv) cihazlarına ait uygulama romların Türkçe'ye çevrilmesi için o
 
 Çevirilerinizi Notepad++ ile yapmanız Türkçe karakterlerin doğru görüntülenmesi ve kodları renklendirdiği için hata yapma olasılığınızı azaltma açısından önemlidir.
 
-Yaptığınız çalışmaları github üzerinden istek göndererek ya da http://forum.turkdevs.com/konu/leeco-turkce-ceviri-ve-dil-destegi-projesi-ana-basligi.12125/ adresine gönderek ya da ademyuce(kuyruklu a)gimeyl nokta com adresine gönderebilirsiniz. Yapılan çeviriler isim ya da kod adlarıyla paylaşılacaktır.
+Yaptığınız çalışmaları github üzerinden istek göndererek ya da http://forum.one-teams.com/Konu-Eco-User-Interface-Turkce-Dil-Ceviri-Projesi?pid=82789#pid82789 adresine gönderek ya da ademyuce(kuyruklu a)gimeyl nokta com adresine gönderebilirsiniz. Yapılan çeviriler isim ya da kod adlarıyla paylaşılacaktır.
 
 
 #Çeviri Yaparken Dikkat Edilmesi Gerekenler:
