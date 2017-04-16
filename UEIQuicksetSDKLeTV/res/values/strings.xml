@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">UEI Android Services SDK(LeTV)</string>
-    <string name="SoftwareId">UEI Android Services SDK(LeTV)</string>
+    <string name="app_name">UEI Android Servisleri SDK(LeTV)</string>
+    <string name="SoftwareId">UEI Android Servisler SDK(LeTV)</string>
     <string name="CustomerName">huawei</string>
-    <string name="ExtendedFunctionName">EXTENDED</string>
+    <string name="ExtendedFunctionName">GENİŞLETİLMİŞ</string>
     <string name="DeviceConfig">devices.xml</string>
-    <string name="APPCONFIGNAME">Settings</string>
-    <string name="ACTIVITIONTAG">Activated</string>
-    <string name="REGISTRATIONTAG">Registered</string>
-    <string name="REGIONCODETAG">Region</string>
+    <string name="APPCONFIGNAME">Ayarlar</string>
+    <string name="ACTIVITIONTAG">Aktifleştirildi</string>
+    <string name="REGISTRATIONTAG">Kayıtlı</string>
+    <string name="REGIONCODETAG">Bölge</string>
     <string name="MACADDRESSTAG">MAC</string>
     <string name="UARTPORTTAG">Port</string>
     <string name="BAUDRATETAG">Baudrate</string>
@@ -21,16 +21,16 @@
     <string name="QSDB8">dac8</string>
     <string name="QSDB9A">dac9a</string>
     <string name="translation_txt">translation.txt</string>
-    <string name="Region_USA">usa</string>
-    <string name="Region_Europe">eu</string>
-    <string name="Region_MidAfrica">midafrica</string>
+    <string name="Region_USA">amerika</string>
+    <string name="Region_Europe">avrupa</string>
+    <string name="Region_MidAfrica">ortaafrika</string>
     <string name="Region_Asia">asia</string>
     <string name="Region_LatinAmerica">latinam</string>
-    <string name="Region_Korea">korea</string>
-    <string name="Region_Japan">japan</string>
-    <string name="Region_China">china</string>
-    <string name="Region_AusOceania">oceania</string>
-    <string name="ExternalResourceAssetFolder">assets</string>
+    <string name="Region_Korea">kore</string>
+    <string name="Region_Japan">japonya</string>
+    <string name="Region_China">çin</string>
+    <string name="Region_AusOceania">okyanusya</string>
+    <string name="ExternalResourceAssetFolder">aktif</string>
     <string name="BrandXMLResource">brands.xml</string>
     <string name="BrandXMLAssetName">brands_translations</string>
     <string name="BrandXML_Japanese">_jp</string>
@@ -43,7 +43,7 @@
     <string name="SerialPort_LeTV">/dev/ttyMT3</string>
     <string name="AuthWindow">5000</string>
     <string name="ErrorWindow">1000</string>
-    <string name="labels">labels</string>
+    <string name="labels">Etiketler</string>
     <string name="JNILibs">libqs_%s.zip</string>
     <string name="ACKeys">airconkeys.txt</string>
 </resources>
