@@ -16,7 +16,7 @@
     <string name="permdesc_write_settings">Uygulamaların anasayfa ayarlarını ve kısayollarını değiştirmesine izin ver.</string>
     <string name="gadget_setup_text">Ayarlar</string>
     <string name="uninstall_system_app_text">Bu bir sistem uygulamasıdır ve kaldırılamaz..</string>
-    <string name="workspace_scroll_format">Anasayfa: Screen %1$d 'de %2$d</string>
+    <string name="workspace_scroll_format">"Anasayfa: Screen %1$d 'de %2$d"</string>
     <string name="folder_opened">Klasör açıldı. Boyut: %1$d x %2$d</string>
     <string name="folder_tap_to_close">Klasörü kapatmak için dokun</string>
     <string name="folder_tap_to_rename">Yeni adı kaydetmek için dokun</string>
@@ -28,7 +28,7 @@
     <string name="permdesc_uninstall_shortcut">Uygulamaların kendi kısayollarını silmesine izin ver</string>
     <string name="permlab_uninstall_shortcut">Kısayolu sil</string>
     <string name="shortcut_uninstalled">%s için kısayol silindi.</string>
-    <string name="apps_customize_apps_scroll_format">Uygulama: Sayfa %1$d 'de %2$d</string>
-    <string name="apps_customize_widgets_scroll_format">Widget: Sayfa %1$d 'de %2$d</string>
+    <string name="apps_customize_apps_scroll_format">"Uygulama: Sayfa %1$d 'de %2$d"</string>
+    <string name="apps_customize_widgets_scroll_format">"Widget: Sayfa %1$d 'de %2$d"</string>
     <string name="shortcut_duplicate"> %s için kısayol zaten var.</string>
 </resources>
