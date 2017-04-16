@@ -117,7 +117,7 @@
     <string name="le_data_label">veri</string>
     <string name="le_apps_count_title">Toplam<g id="try_time">%1$s</g> Uyg.lar</string>
     <string name="le_remind_lable">Hatırla</string>
-    <string name="le_remind_appdata_des">The data should support only music, as the phone Import music, as the phone.</string>
+    <string name="le_remind_appdata_des">Veri müziği desteklemelidir, telefon olarak müzik aktar, telefon olarak.</string>
     <string name="le_system_data">Sistem Verisi</string>
     <string name="le_email_label">Email</string>
     <string name="le_tianqi_label">Hava Durumu</string>
@@ -127,14 +127,14 @@
     <string name="le_method_two_label">Method2:</string>
     <string name="le_method_three_label">Method3:</string>
     <string name="le_download_transfer">Download Transfer APP</string>
-    <string name="le_web_downlod">Scan the next Fanger Wei code, download and install the music, as the replacement App, and then scan the previous two-dimensional code</string>
+    <string name="le_web_downlod">Başka bir Fanger Wei kodu için arama yap, müziği indir ve yükle, değiştirilmiş uygulama olarak, ve önceki iki boyutlu kod için arama yap</string>
     <string name="le_download_install">Yüklemek için tıkla</string>
     <string name="le_remind_find">Tarama kısmını bulamıyor musunuz ?</string>
-    <string name="le_remind1_find">Can not find the receiver to generate two-dimensional code</string>
+    <string name="le_remind1_find">İki boyutlu kod üretmek için alıcı bulunamadı</string>
     <string name="le_scan1_tip">Ayarlar > Reset or transfer > Fast transfer Almak için dokunmalı, ve oluşturulan QR kodunu taratmalısınız.</string>
-    <string name="le_download1_transfer">In Le stores and other mainstream app store to download music as replacement APP.</string>
+    <string name="le_download1_transfer">Le Marketlerinde ve diğer uygulama marketlerinde müzik indirme için yerleştirilmiş uygulama.</string>
     <string name="le_web1_downlod">Uygulamayı değiştirmek için 2 boyutlu kodu tarayınız..</string>
-    <string name="le_create_header">Create header msg</string>
+    <string name="le_create_header">msg başlığı oluştur</string>
     <string name="le_icon_alpha">1.0</string>
     <string name="le_load_alpha">1.0</string>
     <string name="le_cancel_transfer">Transfer iptal edildi</string>
