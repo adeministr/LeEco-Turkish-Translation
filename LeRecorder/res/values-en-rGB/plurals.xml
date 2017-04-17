@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_record_dialog_title">
+        <item quantity="other">Delete %d recordings</item>
+        <item quantity="one">Delete %d recording</item>
+    </plurals>
+    <plurals name="select_item_xliff">
+        <item quantity="other">%d items selected</item>
+        <item quantity="one">%d item selected</item>
+    </plurals>
+    <plurals name="decrypt_record_dialog_title">
+        <item quantity="other">Remove %d recordings from privacy</item>
+        <item quantity="one">Remove %d recording from privacy</item>
+    </plurals>
+    <plurals name="encrypt_record_dialog_title">
+        <item quantity="other">Set %d recordings to privacy</item>
+        <item quantity="one">Set %d recording to privacy</item>
+    </plurals>
+    <plurals name="decrypt_record_dialog_title_cloud">
+        <item quantity="other">Remove %d recordings from private recordings</item>
+        <item quantity="one">Remove %d recording from private recordings</item>
+    </plurals>
+    <plurals name="encrypt_record_dialog_title_cloud">
+        <item quantity="other">Set %d recordings to private</item>
+        <item quantity="one">Set %d recording to private</item>
+    </plurals>
+    <plurals name="le_delete_forever">
+        <item quantity="other">Delete the recordings permanently</item>
+        <item quantity="one">Delete the recording permanently</item>
+    </plurals>
+    <plurals name="le_delete_local_hint">
+        <item quantity="other">"The backup hasn't completed. Are you sure you want to permanently delete the recordings?"</item>
+        <item quantity="one">"The backup hasn't completed. Are you sure you want to permanently delete the recording?"</item>
+    </plurals>
+    <plurals name="le_delete_local_remain_cloud">
+        <item quantity="other">Delete the local recordings and retain the cloud backup</item>
+        <item quantity="one">Delete the local recording and retain the cloud backup</item>
+    </plurals>
+</resources>
