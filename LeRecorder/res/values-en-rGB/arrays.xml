@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="audio_qulity_entries">
-        <item>High quality</item>
-        <item>Standard quality</item>
-        <item>Low quality</item>
+        <item>Yüksek kalite</item>
+        <item>Orta kalite</item>
+        <item>Düşük kalite</item>
     </string-array>
     <string-array name="audio_qulity_entries_des">
-        <item>High quality recordings will be saved in acc format</item>
-        <item>Standard quality recordings will be saved in acc format</item>
-        <item>Low quality recordings will be saved in amr format</item>
+        <item>Yüksek kalite kayıtlar acc formatında kaydedilecek</item>
+        <item>Orta kalite kayıtlar acc formatında kaydedilecek</item>
+        <item>Düşük kalite kayıtlar acc formatında kaydedilecek</item>
     </string-array>
     <string-array name="non_x5_mic_scene_entries">
         <item>Normal</item>
-        <item>Interview</item>
+        <item>Röportaj</item>
     </string-array>
     <string-array name="scene_entries">
-        <item>Voice recording</item>
-        <item>Music recording</item>
+        <item>Ses kaydı</item>
+        <item>Müzik kaydı</item>
     </string-array>
     <string-array name="x5_mic_scene_entries">
         <item>Normal</item>
-        <item>Interview</item>
-        <item>Meeting</item>
+        <item>Röportaj</item>
+        <item>Buluşma</item>
     </string-array>
     <string-array name="audio_qulity_value">
         <item>3</item>
