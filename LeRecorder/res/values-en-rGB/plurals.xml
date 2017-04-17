@@ -25,7 +25,7 @@
         <item quantity="one">%d kaydını gizliliğe ekle</item>
     </plurals>
     <plurals name="le_delete_forever">
-        <item quantity="other">Kalıcı olarak kayıtları sil/item>
+        <item quantity="other">Kalıcı olarak kayıtları sil</item>
         <item quantity="one">Kaydı kalıcı olarak sil</item>
     </plurals>
     <plurals name="le_delete_local_hint">
