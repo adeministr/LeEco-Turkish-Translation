@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_perm_delete">
+        <item quantity="other">Delete %1$d items permanently</item>
+        <item quantity="zero">Delete %1$d items permanently</item>
+        <item quantity="one">Delete %1$d item permanently</item>
+    </plurals>
+</resources>
