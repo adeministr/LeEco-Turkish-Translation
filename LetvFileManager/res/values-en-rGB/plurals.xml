@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="n_folders">
+        <item quantity="other">%1$d folders</item>
+        <item quantity="one">%1$d folder</item>
+    </plurals>
+    <plurals name="n_files">
+        <item quantity="other">%1$d files</item>
+        <item quantity="one">%1$d file</item>
+    </plurals>
+    <plurals name="search_found_items">
+        <item quantity="other">%d projects found</item>
+        <item quantity="one">%d project found</item>
+    </plurals>
+    <plurals name="selection_folders">
+        <item quantity="other">%1$d folders selected.</item>
+        <item quantity="one">%1$d folder selected.</item>
+    </plurals>
+    <plurals name="selection_files">
+        <item quantity="other">%1$d files selected.</item>
+        <item quantity="one">%1$d file selected.</item>
+    </plurals>
+    <plurals name="delate_money_folers">
+        <item quantity="other">Delete the %1$d selected files</item>
+        <item quantity="one">Delete the %1$d selected file</item>
+    </plurals>
+    <plurals name="delate_folers">
+        <item quantity="other">Delete the %1$s selected file(s)</item>
+        <item quantity="one">"Delete folder %1$s 
+%1$d in this folder"</item>
+    </plurals>
+    <plurals name="pictures_name_singlular">
+        <item quantity="other">Pictures</item>
+        <item quantity="one">Picture</item>
+    </plurals>
+    <plurals name="le_string_file_item">
+        <item quantity="other">" Items"</item>
+        <item quantity="one">" Item"</item>
+    </plurals>
+</resources>
