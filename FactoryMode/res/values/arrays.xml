@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="test_sets_array">
+        <item>Manual</item>
+        <item>Dev. system</item>
+        <item>Pre-Production System</item>
+        <item>Production System</item>
+    </string-array>
+</resources>
