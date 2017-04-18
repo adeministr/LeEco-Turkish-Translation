@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">YerEM2</string>
+    <string name="app_name">KonumEM2</string>
     <string name="action_settings">Ayarlar</string>
     <string name="hello_world">Merhaba dünya!</string>
     <string name="ok">Tamam</string>
@@ -21,10 +21,10 @@
     <string name="log_to_sdcard">Hafızaya kaydet</string>
     <string name="num_of_fix">Fix numarası</string>
     <string name="stress_test_settings">Stres Test ayarları</string>
-    <string name="delay_before_starting_gps">GPS'i başlatmadan önce gecikme (san)</string>
+    <string name="delay_before_starting_gps">"GPS'i başlatmadan önce gecikme (san)"</string>
     <string name="delay_before_deleting_data">Verileri silmeden önce gecikme (san)</string>
     <string name="session_timeout">Oturum zamanaşımı (san)</string>
-    <string name="delay_before_stopping_gps">GPS'i durdurmadan önce gecikme (san)</string>
+    <string name="delay_before_stopping_gps">"GPS'i durdurmadan önce gecikme (san)"</string>
     <string name="delete_aiding_data_first">Önce yardım verilerini sil</string>
     <string name="emulator_mode">Emulator Modu</string>
     <string name="clear_screen">Ekranı temizle</string>
@@ -72,12 +72,12 @@
     <string name="allow_roaming">Dolaşıma İzin Ver</string>
     <string name="log_supl_to_file">Dosyaya SUPL kaydet</string>
     <string name="cert_from_sdcard">SD Karttan AGPS Sertifikasına İzin Ver</string>
-    <string name="auto_profile_enable">Mevcut PLMN'ye Dayalı SUPL Profilinin Otomatik Yapılandırılmasına İzin Ver</string>
+    <string name="auto_profile_enable">"Mevcut PLMN'ye Dayalı SUPL Profilinin Otomatik Yapılandırılmasına İzin Ver"</string>
     <string name="nlp_service">NLP Hizmetine İzin Ver</string>
-    <string name="supl_apn_enable">SUPL'ye ayrılmış APN'ye izin ver</string>
-    <string name="sync_to_slp">AGPS Ayarını SLPD'ye Senkronize Et</string>
-    <string name="imsi_enable">SUPL iletilerinde geçerli IMSI'ya izin ver</string>
-    <string name="ecid_enable">ECID'yi etkinleştir</string>
+    <string name="supl_apn_enable">"SUPL'ye ayrılmış APN'ye izin ver"</string>
+    <string name="sync_to_slp">"AGPS Ayarını SLPD'ye Senkronize Et"</string>
+    <string name="imsi_enable">"SUPL iletilerinde geçerli IMSI'ya izin ver"</string>
+    <string name="ecid_enable">"ECID'yi etkinleştir"</string>
     <string name="apn_type0">type 0</string>
     <string name="apn_type1">type 1</string>
     <string name="apn_type2">type 2</string>
@@ -188,7 +188,7 @@
     <string name="outside">Dışarı</string>
     <string name="leave">Çıkılıyor</string>
     <string name="menu">Menü</string>
-    <string name="file_sdcard">SD kard</string>
+    <string name="file_sdcard">SD kart</string>
     <string name="file_location_em">Bölge EM</string>
     <string name="msic_goto">Şuraya git</string>
     <string name="ygps">YGPS</string>
@@ -202,8 +202,7 @@
     <string name="server_port">Server Port</string>
     <string name="connection_off">Bağlantı (kapalı)</string>
     <string name="connection_on">Bağlantı (açık)</string>
-    <string name="cell_info">
-Mevcut Hücre Bilgisi</string>
+    <string name="cell_info">Mevcut Hücre Bilgisi</string>
     <string name="measurement">Uzunluk</string>
     <string name="navigation">Navigasyon</string>
     <string name="on">(aç)</string>
