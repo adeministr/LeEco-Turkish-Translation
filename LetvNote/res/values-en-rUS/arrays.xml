@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="star">
-        <item>Movies and dramas</item>
-        <item>Entertainment News</item>
-        <item>Wallpapers</item>
-        <item>Hit singles</item>
-        <item>Music albums</item>
-        <item>Related artists</item>
-        <item>Related tweets</item>
-        <item>Related websites</item>
+        <item>Filmler ve dramalar</item>
+        <item>Eğlence haberleri</item>
+        <item>Duvar Kağıtları</item>
+        <item>Hit singlelar</item>
+        <item>Müzik albümleri</item>
+        <item>Alakalı sanatçılar</item>
+        <item>Alakalı tweetler</item>
+        <item>Alakalı siteler</item>
     </string-array>
     <string-array name="player">
-        <item>Movies and dramas</item>
-        <item>Sports News</item>
-        <item>Wallpapers</item>
-        <item>None</item>
-        <item>Music albums</item>
-        <item>None</item>
-        <item>Related tweets</item>
-        <item>Related websites</item>
+        <item>Filmler ve dramalar</item>
+        <item>Spor haberleri</item>
+        <item>Duvar Kağıtları</item>
+        <item>Yok</item>
+        <item>Müzik albümleri</item>
+        <item>Yok</item>
+        <item>Alakalı tweetler</item>
+        <item>Alakalı siteler</item>
     </string-array>
     <string-array name="movie">
-        <item>Movies and dramas</item>
-        <item>Entertainment News</item>
-        <item>Wallpapers</item>
-        <item>Soundtracks</item>
-        <item>None</item>
-        <item>Related artists</item>
-        <item>None</item>
-        <item>None</item>
+        <item>Filmler ve dramalar</item>
+        <item>Eğlence haberleri</item>
+        <item>Duvar Kağıtları</item>
+        <item>Müzikler</item>
+        <item>Yok</item>
+        <item>Alakalı sanatçılar</item>
+        <item>Yok</item>
+        <item>Yok</item>
     </string-array>
     <string-array name="team">
-        <item>Movies and dramas</item>
-        <item>Relevant news</item>
-        <item>Wallpapers</item>
-        <item>Related music</item>
-        <item>None</item>
-        <item>None</item>
-        <item>None</item>
-        <item>None</item>
+        <item>Filmler ve dramalar</item>
+        <item>Alakalı haberler</item>
+        <item>Duvar Kağıtları</item>
+        <item>Alakalı müzikler</item>
+        <item>Yok</item>
+        <item>Yok</item>
+        <item>Yok</item>
+        <item>Yok</item>
     </string-array>
     <string-array name="brand">
-        <item>None</item>
-        <item>Brand News</item>
-        <item>Wallpapers</item>
-        <item>Label music</item>
-        <item>None</item>
-        <item>None</item>
-        <item>Related tweets</item>
-        <item>Related websites</item>
+        <item>Yok</item>
+        <item>Marka Haberleri</item>
+        <item>Duvar Kağıtları</item>
+        <item>Etik müzik</item>
+        <item>Yok</item>
+        <item>Yok</item>
+        <item>Alakalı tweetler</item>
+        <item>Alakalı siteler</item>
     </string-array>
     <string-array name="region">
-        <item>None</item>
-        <item>Related videos</item>
-        <item>Wallpapers</item>
-        <item>None</item>
-        <item>None</item>
-        <item>None</item>
-        <item>Related tweets</item>
-        <item>None</item>
+        <item>Yok</item>
+        <item>Alakalı videolar</item>
+        <item>Duvar Kağıtları</item>
+        <item>Yok</item>
+        <item>Yok</item>
+        <item>Yok</item>
+        <item>Alakalı tweetler</item>
+        <item>Yok</item>
     </string-array>
 </resources>
