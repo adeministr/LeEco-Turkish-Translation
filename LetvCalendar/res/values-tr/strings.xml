@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">Ana ekrana git</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Yukarı git</string>
+    <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
+    <string name="abc_action_mode_done">Tamamlandı</string>
+    <string name="abc_activity_chooser_view_see_all">Tümünü göster</string>
+    <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
+    <string name="abc_capital_off">KAPAT</string>
+    <string name="abc_capital_on">AÇ</string>
+    <string name="abc_search_hint">Ara…</string>
+    <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+    <string name="abc_searchview_description_query">Arama sorgusu</string>
+    <string name="abc_searchview_description_search">Ara</string>
+    <string name="abc_searchview_description_submit">Sorguyu gönder</string>
+    <string name="abc_searchview_description_voice">Sesli arama</string>
+    <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+    <string name="abc_toolbar_collapse_description">Daralt</string>
     <string name="accessibility_add_attendee">Katılımcı ekle</string>
     <string name="accessibility_add_reminder">Hatırlatıcı ekle</string>
     <string name="accessibility_all_day">Tüm gün etkinliği</string>
@@ -122,13 +141,16 @@
     <string name="preferences_alerts_ringtone_title">Ses</string>
     <string name="preferences_alerts_title">Bildirimler</string>
     <string name="preferences_alerts_vibrateWhen_title">Titreşim</string>
+    <string name="preferences_attend_notification_setting">会议事件提醒固定通知栏</string>
     <string name="preferences_build_version">Derleme sürümü</string>
     <string name="preferences_clear_search_history_summary">Gerçekleştirdiğiniz tüm aramaları silin</string>
     <string name="preferences_clear_search_history_title">Arama geçmişini temizle</string>
     <string name="preferences_debug_category">Hata ayıklama</string>
+    <string name="preferences_default_alldayreminder_default">-1</string>
+    <string name="preferences_default_alldayreminder_title">全天事件</string>
     <string name="preferences_default_reminder_default">10</string>
     <string name="preferences_default_reminder_dialog">Varsayılan hatırlatıcı süresi</string>
-    <string name="preferences_default_reminder_title">Varsayılan hatırlatıcı süresi</string>
+    <string name="preferences_default_reminder_title">非全天事件</string>
     <string name="preferences_experimental_category">Deneysel</string>
     <string name="preferences_general_title">Takvim görünümü ayarı</string>
     <string name="preferences_hide_declined_title">Reddedilmiş etkin. gizle</string>
@@ -143,6 +165,7 @@
     <string name="preferences_reminders_responded_label">Hatırlatıcıları Atla</string>
     <string name="preferences_show_week_num_title">Hafta sayısını göster</string>
     <string name="preferences_title">Ayarlar</string>
+    <string name="preferences_to_default_reminder_title">默认提醒设置</string>
     <string name="preferences_use_home_tz_descrip">Seyahat ederken takvimleri ve etkinlik saatlerini ev saat diliminde görüntüler</string>
     <string name="preferences_use_home_tz_title">Ev saat dilimini kullan</string>
     <string name="preferences_week_start_day_dialog">Haftanın ilk günü</string>
@@ -191,6 +214,7 @@
     <string name="show_older_events">%1$s öncesindeki etkinlikleri görüntülemek için dokunun</string>
     <string name="snooze_all_label">Tümünü ertele</string>
     <string name="snooze_label">Ertele</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="synced">senkronize edildi</string>
     <string name="template_announce_item_index">Etkinlik: %1$s / %2$s.</string>
     <string name="timezone_label">Saat dilimi</string>
@@ -208,12 +232,5 @@
     <string name="year_picker_description">Yıl listesi</string>
     <string name="yearly">Yılda bir (%s tarihinde)</string>
     <string name="yearly_plain">Yılda bir</string>
-    <string name="copy_email">E-posta adresini kopyala</string>
-    <string name="copy_number">Telefon numarasını kopyala</string>
-    <string name="more_string">+%1$s</string>
     <string name="acessibility_snooze_notification">Erteleme Bildirimi</string>
-    <string name="color_picker_default_title">Bir Renk Seçin</string>
-    <string name="color_swatch_description">Renk %1$d</string>
-    <string name="color_swatch_description_selected">Renk %1$d seçildi</string>
-    <string name="action_label">Enter</string>
 </resources>

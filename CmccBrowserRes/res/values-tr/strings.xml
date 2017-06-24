@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="homepage_base">https://www.google.com.tr</string>
+    <string name="def_wifi_browser_interaction_remind_type">wifi_browser_interaction_remind</string>
+    <string name="def_action_wifi_selection_data_connections">android.net.wifi.cmcc.WIFI_SELECTION_DATA_CONNECTION</string>
+    <string name="def_intent_pick_network">android.net.wifi.cmcc.PICK_WIFI_NETWORK_AND_GPRS</string>
+    <string name="def_useragent" formatted="false">&lt;%build_model>/1.0 Android &lt;%build_version> Release/&lt;%build_id> Browser/AppleWebKit534.30 Profile/MIDP-2.0 Configuration/CLDC-1.1 Safari/537.36</string>
+    <string name="def_intent_file_manager">com.android.fileexplorer.action.DIR_SEL</string>
+    <string name="def_file_manager_result_dir">def_file_manager_result_dir</string>
+    <string name="default_search_engine_value">google</string>
+</resources>

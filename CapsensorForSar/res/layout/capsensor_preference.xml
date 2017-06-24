@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="capsensorsettings"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="capsensorsettings">
+        <CheckBoxPreference android:title="@string/cap_status" android:key="prefer_capstatus" android:defaultValue="false" android:summaryOn="true" android:summaryOff="false" />
+    </PreferenceCategory>
+    <PreferenceCategory>
+        <EditTextPreference android:numeric="integer" android:title="@string/cap_status_title" android:key="edittext_key" android:summary="@string/cap_status_summary" android:dependency="prefer_capstatus" android:defaultValue="2" android:dialogTitle="" android:dialogMessage="@string/cap_status_message" android:positiveButtonText="ok" android:negativeButtonText="cancel" />
+    </PreferenceCategory>
+</PreferenceScreen>

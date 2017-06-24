@@ -34,7 +34,7 @@
     </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>
-        <item quantity="one">1.0</item>
+        <item quantity="one">+1</item>
     </plurals>
     <plurals name="recurrence_end_count">
         <item quantity="other">%d etkinlik için</item>
@@ -58,9 +58,6 @@
     </plurals>
     <plurals name="weekly">
         <item quantity="other">%1$d haftada bir her %2$s</item>
-        <item quantity="one">Haftalık olarak her %2$s</item>
-    </plurals>
-    <plurals name="weekN">
-        <item quantity="other">%d. HAFTA</item>
+        <item quantity="one">Haftalık olarak her %1$s</item>
     </plurals>
 </resources>

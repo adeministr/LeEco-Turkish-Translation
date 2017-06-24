@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Saat</string>
+    <string name="shutdown_yes">Evet</string>
+    <string name="shutdown_no">Hayır</string>
+    <string name="power_on_off_text">Telefon açılsın mı?</string>
+    <string name="other">Diğer</string>
+</resources>

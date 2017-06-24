@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="user_terms">User Agreement</string>
+    <string name="payment_order_label">Order number</string>
+    <string name="payment_total_label">Amount paid</string>
+    <string name="purchase_im">Pay now</string>
+    <string name="feedback_desc_label">Issue details</string>
+    <string name="qq">QQ</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="waitpay">Pending payment</string>
+    <string name="tip_no_orders">"You haven't purchased any international roaming plan"</string>
+    <string name="order_detail_label">Order details</string>
+    <string name="all_app_list">All apps</string>
+    <string name="select_all">Select all</string>
+    <string name="day">days</string>
+    <string name="tip_go_pay">Pending payment</string>
+    <string name="tip_enable">Enable now</string>
+    <string name="tip_not_use">Not enabled</string>
+    <string name="tip_stop">Paused</string>
+    <string name="text_other">Other countries or regions</string>
+    <string name="hour">hours</string>
+    <string name="minute">min</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="string_wifi_data">Wi-Fi</string>
+    <string name="le_install">Install</string>
+    <string name="le_network_problem">Connection failed, please check your network</string>
+    <string name="le_downloading">Downloading, please wait...</string>
+    <string name="le_download_by_mobile_traffic">Use mobile data to download the package</string>
+</resources>

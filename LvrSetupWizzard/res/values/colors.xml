@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="forty_alpha_black">#66000000</color>
+    <color name="horizontal_line">#19000000</color>
+    <color name="sixty_alpha_white">#9affffff</color>
+</resources>

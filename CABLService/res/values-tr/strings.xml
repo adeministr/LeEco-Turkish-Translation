@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">İçerik Uyarlamalı Arka Işık ayarları</string>
+    <string name="cabl_settings_title">İçerik Uyarlamalı Arka Işık Ayarları</string>
+    <string name="cabl_enable_title">Ayarlanabilir arka ışığı etkinleştir</string>
+    <string name="cabl_enable_summary_on">Arka ışık ekran içeriğine göre yeniden uyarlanacaktır</string>
+    <string name="cabl_enable_summary_off">Arka ışık ekran içeriğine göre uyarlanmayacaktır</string>
+    <string name="cabl_levels_title">Görsel Kalite Seviyesi</string>
+    <string name="cabl_levels_summary">"Düşük kalite seviyesi, CABL'nin (İUAI) görüntülenen içeriği önemli ölçüde etkilemeden mümkün olduğunca çok güç tasarrufu yapmaya çalışacağını gösterir. Otomatik görsel kalite düzeyi, CABL'nin (İUAI) görüntülenmekte olan içeriğin otomatik algılanmasını temel alarak güç tasarrufunu en üst düzeye çıkarmaya çalışacağı anlamına gelir."</string>
+    <string name="cabl_level_default">Otomatik</string>
+    <string name="cabl_info_default">Bilinmiyor</string>
+    <string name="cabl_version_title">"CABL (İUAI) Version"</string>
+</resources>

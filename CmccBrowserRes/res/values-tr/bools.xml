@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="feature_allow_media_downloads">true</bool>
+    <bool name="def_allow_media_downloads">true</bool>
+    <bool name="feature_custom_download_path">true</bool>
+    <bool name="feature_exit_dialog">true</bool>
+    <bool name="feature_text_autosizing">false</bool>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CapsensorForSar</string>
+    <string name="test">Test</string>
+    <string name="cap_status">Capsensor ein</string>
+</resources>

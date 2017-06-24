@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="8.0dip" android:layout_marginRight="8.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginRight="5.0dip">
+        <TextView android:textSize="18.0sp" android:textColor="#ffffffff" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="1.0dip" android:text="@string/current_config" />
+        <TextView android:textSize="14.0sp" android:textColor="#ccffffff" android:id="@id/mbn_id" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="5.0dip" />
+        <Button android:textSize="18.0sp" android:textColor="#ccffffff" android:id="@id/mbn_validate" android:visibility="gone" android:layout_width="162.0dip" android:layout_height="48.0dip" android:text="@string/mbn_validate" android:layout_alignParentRight="true" />
+    </LinearLayout>
+    <TextView android:textSize="18.0sp" android:textColor="#ffffffff" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginRight="5.0dip" android:text="@string/choose_config_hit" />
+    <View android:background="#ff545759" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <ListView android:layout_gravity="center|left" android:id="@id/meta_info_list" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="5.0dip" android:layout_weight="1.0" />
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="5.0dip" android:layout_marginBottom="27.0dip">
+        <Button android:textSize="18.0sp" android:textColor="#ccffffff" android:id="@id/exit" android:visibility="invisible" android:layout_width="142.0dip" android:layout_height="48.0dip" android:text="@string/exit" />
+        <Button android:textSize="18.0sp" android:textColor="#ccffffff" android:id="@id/activate" android:visibility="invisible" android:layout_width="142.0dip" android:layout_height="48.0dip" android:text="@string/activate" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+</LinearLayout>

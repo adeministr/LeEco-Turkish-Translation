@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="incoming_call_failed_low_battery">Gelen arama düşük pil nedeni ile başarısız oldu.</string>
+    <string name="device_is_hd_capable">Aygıt HD destekli</string>
+    <string name="call_hold_label">Aramayı Beklet :</string>
+    <string name="call_resume_label">Devam ettir :</string>
+    <string name="error_msg_failed">Başarısız</string>
+    <string name="error_msg_cancelled">İptal edildi</string>
+    <string name="error_msg_reinvite_collision">Reinvite Collision</string>
+</resources>

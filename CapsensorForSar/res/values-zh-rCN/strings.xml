@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CapsensorForSar</string>
+    <string name="test">test</string>
+    <string name="cap_status">Capsensor on</string>
+    <string name="cap_status_title">手动输入修改值</string>
+    <string name="cap_status_message">手动输入修改DB值 1db约等于8 默认40为5db</string>
+    <string name="cap_status_summary">点击弹出编辑框</string>
+</resources>

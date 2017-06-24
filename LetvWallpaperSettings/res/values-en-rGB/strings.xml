@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="leui_wallpaper_setting_preferences">System wallpapers</string>
+    <string name="application_name">Wallpaper settings</string>
+    <string name="gallery_wallpaper">Gallery</string>
+    <string name="live_wallpaper">Live wallpapers</string>
+    <string name="static_wallpaper">Static wallpaper</string>
+    <string name="activity_not_found">App is not installed</string>
+    <string name="bottom_cancel_text">Cancel</string>
+    <string name="bottom_ok_text">Set as</string>
+    <string name="third_wallpaper">Other wallpaper apps</string>
+    <string name="third_wallpaper_short">Apps</string>
+    <string name="other_wallpapers">Others</string>
+    <string name="not_support_format">This file format cannot be used as wallpaper</string>
+    <string name="set_wallpaper_success">Successfully set as wallpaper</string>
+    <string name="set_wallpaper_failure">Failed to set as wallpaper</string>
+    <string name="state_setting_as_wallpaper">Set as wallpaper</string>
+    <string name="all_selection">View all</string>
+    <string name="eui_selection">EUI collection</string>
+    <string name="not_return_image">No returned image</string>
+</resources>

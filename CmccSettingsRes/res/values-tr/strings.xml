@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_tether_checkbox_text">WLAN erişim noktası</string>
+    <string name="tether_settings_title_all">Bağlan &amp; erişim noktası</string>
+</resources>

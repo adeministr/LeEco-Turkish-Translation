@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="flow_use_instruction">Instructions</string>
+    <string name="flow_input_verifycode_tip">Enter verification code</string>
+    <string name="flow_cancel">Cancel</string>
+    <string name="cmcc_bindapply_fail">"Unable to activate free data service. This might be caused by an overdue phone bill or a package that hasn't taken effect. Contact the local carrier to check your account status. 
+
+ The service request will be sent to your carrier every day, please check it regularly."</string>
+    <string name="unicom_bindapply_fail">"Unable to activate free data service. This might be caused by an overdue phone bill or a package that hasn't taken effect. Contact the local carrier to check your account status. 
+
+ The service request will be sent to your carrier every day, please check it regularly."</string>
+    <string name="flow_ok">OK</string>
+</resources>

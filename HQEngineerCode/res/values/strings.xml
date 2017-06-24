@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mmi_imei_display">*#06#</string>
+    <string name="prl_version_display">*#0000#</string>
+    <string name="cta_version_display">\#*2008#</string>
+    <string name="build_version_display">*#267#</string>
+    <string name="factory_test_for_attachment_display">*937*79#</string>
+    <string name="test_start_runin">*#6688#</string>
+    <string name="project_test_display">*#8375#</string>
+    <string name="display_fuse_state">*#*#3873#*#*</string>
+    <string name="set_diag_prop_display">\####8090#</string>
+    <string name="app_name">engineermode</string>
+    <string name="engineer_title">The interface of querying engineering instructions</string>
+    <string name="build_version_time">Build version time</string>
+    <string name="cta_version">CTA Version</string>
+    <string name="software_version">Software version</string>
+    <string name="hardware_version">Hardware version</string>
+    <string name="product_version">Product version</string>
+    <string name="build_version">Revision number</string>
+    <string name="menu_callNumber">Call %s</string>
+    <string name="simContacts_emptyLoading">Reading from SIM card…</string>
+    <string name="simContacts_title">Manage SIM card contacts</string>
+    <string name="meid">MEID</string>
+    <string name="imei">IMEI</string>
+    <string name="set_default_account">Always use this for calls</string>
+    <string name="select_account_dialog_title">Account</string>
+    <string name="fuse_state_title">State Info</string>
+    <string name="fuse_state_is_unblown">Fuse unblown</string>
+    <string name="fuse_state_is_blown">Fuse blown</string>
+</resources>

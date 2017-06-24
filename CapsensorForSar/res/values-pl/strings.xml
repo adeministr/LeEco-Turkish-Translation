@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CzujnikDlaSar</string>
+    <string name="test">test</string>
+    <string name="cap_status">Czujnik włączony</string>
+</resources>

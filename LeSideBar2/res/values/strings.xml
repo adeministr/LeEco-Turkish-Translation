@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="window_icon">Window icon</string>
+    <string name="hide">Hide</string>
+    <string name="close">Close</string>
+    <string name="corner">Corner</string>
+    <string name="maximize">Maximize</string>
+    <string name="icon">icon</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="percent">%1$d%%</string>
+    <string name="app_name">BlueGod SideBar</string>
+    <string name="settings">Settings</string>
+    <string name="side_name">SideBar</string>
+    <string name="side_boot">Start on Boot</string>
+    <string name="side_boot_description">SideBar auto-start on boot</string>
+    <string name="side_hide">SideBar Auto Hide</string>
+    <string name="side_hide_description">Side bar auto-hide when no touch</string>
+    <string name="side_position">Position</string>
+    <string name="side_position_description">Select the position of SideBar</string>
+    <string name="side_position_left">Left</string>
+    <string name="side_position_right">Right</string>
+    <string name="sensitivity_name">Sensitivity</string>
+    <string name="sensitivity_description">Setting the width of swipe view</string>
+    <string name="settings_notification_title">BlueGod Sidebar</string>
+    <string name="settings_notification_content">Tap to configure</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="app_name_default">Loading...</string>
+    <string name="app_select_title">Select an App</string>
+    <string name="cancel">Cancel</string>
+    <string name="id">id</string>
+    <string name="status">id</string>
+    <string name="edit_hint">or here</string>
+    <string name="press_btn_tips">Then press me</string>
+    <string name="optimize_memory_msg_size">Optimize memory size:%1$d M</string>
+    <string name="optimize_memory_msg_optimum">This is already the best results</string>
+    <string name="welcome">Welcome!</string>
+    <string name="ok">Welcome!</string>
+    <string name="user_tutoral">Slide in from the edge to activate Sidebar!!</string>
+    <string name="delete_app_tutoral">Add success! Swiping the app out of the sidebar to remove it.</string>
+    <string name="side_info">Enable/Disable.</string>
+</resources>

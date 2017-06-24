@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="17.0dip" android:id="@id/sub1" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginTop="18.0dip" android:text="@string/sub1" />
+    <TextView android:textSize="17.0dip" android:id="@id/sub2" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginTop="10.0dip" android:text="@string/sub2" />
+    <TextView android:textSize="17.0dip" android:id="@id/sub3" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="40.0dip" android:text="@string/sub3" />
+    <View android:visibility="gone" android:layout_width="fill_parent" android:layout_height="10.0dip" />
+    <TextView android:textSize="17.0dip" android:textColor="#ccffffff" android:id="@id/mbn_id" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginTop="18.0dip" android:text="@string/mbn_id" />
+    <TextView android:textSize="17.0dip" android:textColor="#ccffffff" android:id="@id/mbn_source" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginTop="18.0dip" android:text="@string/source" />
+    <TextView android:textSize="17.0dip" android:textColor="#ccffffff" android:id="@id/mobile_data" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginTop="10.0dip" android:text="@string/mobile_data" />
+    <TextView android:textSize="17.0dip" android:textColor="#ccffffff" android:id="@id/data_roaming" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginTop="10.0dip" android:text="@string/data_roaming" />
+    <View android:background="#ff484848" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginLeft="4.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="4.0dip" />
+    <LinearLayout android:orientation="horizontal" android:paddingTop="4.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:measureWithLargestChild="true" android:paddingStart="2.0dip" android:paddingEnd="2.0dip" style="?android:attr/buttonBarStyle">
+        <Button android:textSize="18.0dip" android:textColor="#ffffffff" android:layout_gravity="start" android:id="@id/cancel" android:clickable="true" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/cancel" android:layout_weight="1.0" style="?android:attr/buttonBarButtonStyle" />
+        <Button android:textSize="18.0dip" android:textColor="#ffffffff" android:layout_gravity="end" android:id="@id/confirm" android:clickable="true" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/confirm" android:layout_weight="1.0" style="?android:attr/buttonBarButtonStyle" />
+    </LinearLayout>
+</LinearLayout>

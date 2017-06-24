@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="normal_config">
+        <item>地区</item>
+        <item>运营商</item>
+        <item>设备模式</item>
+        <item>多模配置</item>
+        <item>MBN 文件</item>
+    </string-array>
+    <string-array name="abnormal_config">
+        <item>地区</item>
+        <item>运营商</item>
+        <item>MBN 文件</item>
+    </string-array>
+    <string-array name="locations">
+        <item>@string/phone_storage</item>
+        <item>@string/sdcard</item>
+    </string-array>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TencentNetworkLocation</string>
+    <string name="location_warning_title">Location consent</string>
+    <string name="location_warning_message">Tencent location services will collect anonymous location data.Some data may be stored on your device.We ensure that your data will not be shared with other parties or be used for purposes other than providing services.</string>
+    <string name="confirm">CONFIRM</string>
+</resources>
