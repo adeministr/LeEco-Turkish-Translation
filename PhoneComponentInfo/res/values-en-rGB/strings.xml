@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ControlCentre!</string>
+    <string name="app_name">PhoneComponentInfo</string>
+    <string name="LCDModelInfo">LCD Model Information</string>
+    <string name="TPModelInfo">TP Model Information</string>
+    <string name="MainCameraModelInfo">Main Camera Model Information</string>
+    <string name="SubCameraModelInfo">Sub Camera Model Information</string>
+    <string name="FlashInfo">Flash Information</string>
+    <string name="GsensorInfo">Gsensor Information</string>
+    <string name="MsensorInfo">Msensor Information</string>
+    <string name="Als_ps_Info">Als PS Information</string>
+    <string name="GyroInfo">Gyro Information</string>
+    <string name="EmcpInfo">Emcp Information</string>
+    <string name="ROMInfo">ROM Information</string>
+    <string name="RAMInfo">RAM Information</string>
+    <string name="nullInfo">There is not this component in handset, or failed to get component information, please contact engineers.</string>
+    <string name="null_activity">empty activity</string>
+</resources>

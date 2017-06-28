@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="set_adb_prop_display">\####8989#</string>
+    <string name="set_aplog_code">\####7878#</string>
+    <string name="set_qxdmlog_code">\####8787#</string>
+    <string name="set_usb_sn_code">\####8789#</string>
+    <string name="set_audio_test_control">*937*768#</string>
+    <string name="set_hwlog_enable">\####8990#</string>
+    <string name="set_rndis_enable">\####8991#</string>
+    <string name="set_ndis_enable">\####8788#</string>
+    <string name="set_diag_prop_display">\####8090#</string>
+    <string name="set_logvd_prop_display">\####7879#</string>
+    <string name="app_name">Properties settings</string>
+    <string name="activity_name">Set properties</string>
+    <string name="activity_enabled">Enable</string>
+    <string name="activity_disabled">Disable</string>
+    <string name="activity_pass_name">Successful</string>
+    <string name="adb_enabled_msg">Set up ADB debug, take effect after reboot or Plug USB cable again</string>
+    <string name="menu_settings">menusettings</string>
+    <string name="log_activity_name">Set log display</string>
+    <string name="log_activity_enabled">Enable</string>
+    <string name="log_activity_disabled">Disable</string>
+    <string name="log_activity_pass_name">Successful</string>
+    <string name="qxdmlog_activity_name">Save QXDM log</string>
+    <string name="chinese_language_name">Enable Chinese language</string>
+    <string name="set_unique_sn_activity_name">Set unique USB serial number</string>
+    <string name="open_factory_mode">Start Factory Mode</string>
+    <string name="open_user_mode">Start User Mode</string>
+    <string name="current_factory_mode">"Current phone to factory mode!
+To change the phone mode must restart to take effect.
+click will automatically restart after setting the phone!"</string>
+    <string name="current_user_mode">"Current phone to user mode!
+To change the phone mode must restart to take effect.
+click will automatically restart after setting the phone!"</string>
+    <string name="caveat_user_mode">Current phone is already a user mode!</string>
+    <string name="caveat_factory_mode">Current phone is already a factory mode!</string>
+    <string name="close_activity">Close</string>
+    <string name="dump_enabled_msg">"Get AP Log will be enabled. 
+If want get dump Log,please insert SD card and ensure free space at least 1GB to store crash dump Log."</string>
+    <string name="dump_disabled_msg">AP Log will be disabled.</string>
+    <string name="audio_test_enabled_msg">Open Audio Test Service?</string>
+    <string name="is_sensitive_msg">Open Sensitive information?</string>
+    <string name="is_rndis_msg">Open RNDIS port?</string>
+    <string name="is_ndis_msg">Open NDIS port?</string>
+    <string name="open_diag_msg">Open diag port on USB tethering?</string>
+    <string name="open_logvd_msg">Open logv/logd properties?</string>
+</resources>

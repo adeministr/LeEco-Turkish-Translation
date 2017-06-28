@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="grant_options">
+        <item>Prompt</item>
+        <item>Grant</item>
+        <item>Deny</item>
+    </string-array>
+    <string-array name="protect_ops">
+        <item>Protect</item>
+        <item>Deprotect</item>
+    </string-array>
+</resources>
