@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="my_app_name">FIDO UAF1.0 ASM</string>
+    <string name="my_description">Cihanızdaki uygulamalara giriş yapmak için FIDO UAF1.0 AUTHENTICATOR hizmetini kullanabilirsiniz. Bu şifrelerinizi her seferinde tekrar girmekten güvenli ve daha konforludur.</string>
+    <string name="my_title">FIDO UAF1.0 AUTHENTICATOR</string>
+    <string name="touch_finger_hint">Lütfen parmak izinizi okutun</string>
+    <string name="transaction_confirmation">İşlem onayı</string>
+    <string name="cancel">İptal</string>
+    <string name="unknown_error">Bilinmeyen hata</string>
+    <string name="fingerprint_matched">Eşleşti!</string>
+    <string name="fingerprint_mismatched">Eşleşmedi! Lütfen tekrar deneyin.</string>
+    <string name="timeout">Zaman aşımı</string>
+    <string name="toomanyattempts">"Çok fazla deneme yaptınız!
+Lütfen daha sonra tekrar deneyiniz."</string>
+    <string name="finger_image">Parmak izi görüntüsü</string>
+    <string name="manage_ok">Ayarlara git</string>
+    <string name="manage_hint">"Hiç parmak izi tanıtılmadı!
+Lütfen Ayarlar'da Parmak izi ve Parola kısmından parmağınızı/parmaklarınızı tanıtıp tekrar deneyiniz."</string>
+    <string name="click_to_authorize">Yetkilendir</string>
+    <string name="app_name">asmsdk</string>
+</resources>
