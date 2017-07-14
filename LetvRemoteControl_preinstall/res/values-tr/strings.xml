@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Remote Control</string>
+    <string name="app_name">Uzaktan Kumanda</string>
     <string name="abc_action_mode_done">Tamamlandı</string>
     <string name="abc_action_bar_home_description">Ana ekrana git</string>
     <string name="abc_action_bar_up_description">Yukarı git</string>
