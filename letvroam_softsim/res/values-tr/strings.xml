@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notifity_content_title">Dolaşım servisini kullanıyorsunuz.</string>
+    <string name="notifity_content_text">Abonelik planınızı kontrol etmek için tıklayın</string>
+    <string name="network_notifity_content_title">Şebekeye kayıt olunuyor.</string>
+    <string name="start_notifity_content_title">Dolaşım servisini kullanıyorsunuz.</string>
+    <string name="uim_remote_error">Hata, lütfen telefonunuzu yeniden başlatın.</string>
+    <string name="app_name_oneplus">OnePlus Dolaşım</string>
+    <string name="app_name">SoftSIM</string>
+</resources>
