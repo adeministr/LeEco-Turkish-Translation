@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="set_adb_prop_display">\####8989#</string>
+    <string name="set_aplog_code">\####7878#</string>
+    <string name="set_qxdmlog_code">\####8787#</string>
+    <string name="set_usb_sn_code">\####8789#</string>
+    <string name="set_audio_test_control">*937*768#</string>
+    <string name="set_hwlog_enable">\####8990#</string>
+    <string name="set_rndis_enable">\####8991#</string>
+    <string name="set_ndis_enable">\####8788#</string>
+    <string name="set_diag_prop_display">\####8090#</string>
+    <string name="set_logvd_prop_display">\####7879#</string>
+    <string name="app_name">Özellik ayarları</string>
+    <string name="activity_name">Özellikleri ayarla</string>
+    <string name="activity_enabled">Etkin</string>
+    <string name="activity_disabled">Devre Dışı</string>
+    <string name="activity_pass_name">Başarılı</string>
+    <string name="adb_enabled_msg">ADB hata ayıklama ayarlarını yapın, yeniden başlattıktan sonra yürürlüğe koyun veya USB kablosunu tekrar takın</string>
+    <string name="menu_settings">menusettings</string>
+    <string name="log_activity_name">Günlük görüntüsünü ayarla</string>
+    <string name="log_activity_enabled">Etkin</string>
+    <string name="log_activity_disabled">Devre Dışı</string>
+    <string name="log_activity_pass_name">Başarılı</string>
+    <string name="qxdmlog_activity_name">QXDM günlüğünü kaydet</string>
+    <string name="chinese_language_name">Çince dili etkinleştir</string>
+    <string name="set_unique_sn_activity_name">Benzersiz USB seri numarasını ayarlayın</string>
+    <string name="open_factory_mode">Fabrika Modunu Başlatın</string>
+    <string name="open_user_mode">Kullanıcı Modunu Başlat</string>
+    <string name="current_factory_mode">"Şu an telefon fabrika modunda!
+telefon Modu değiştirmek ve etkinleşmesi için yeniden başlatılması gerekir.
+telefonu ayarladıktan sonra otomatik olarak yeniden başlar!"</string>
+    <string name="current_user_mode">"Telefon kullanıcı modunda!
+Telefon modunu değiştirmek ve etkinleşmesi için yeniden başlatılması gerekir.
+telefon ayarlandıktan sonra tıklama otomatik olarak başlayacaktır!!"</string>
+    <string name="caveat_user_mode">Mevcut telefon zaten bir kullanıcı modudur!</string>
+    <string name="caveat_factory_mode">Mevcut telefon zaten bir fabrika modudur!</string>
+    <string name="close_activity">Kapalı</string>
+    <string name="dump_enabled_msg">"AP Günlüğü etkinleştirilecek.
+İstediğiniz Günlük Çıkışı almak istiyorsanız, lütfen SD kartı takın ve çökme günlüğünü saklamak için en az 1GB boş alan sağlayın."</string>
+    <string name="dump_disabled_msg">AP Günlüğü devre dışı bırakılacak.</string>
+    <string name="audio_test_enabled_msg">Ses Test Servisi Açılsın mı?</string>
+    <string name="is_sensitive_msg">Hassas bilgiler açılsın mı?</string>
+    <string name="is_rndis_msg">RNDIS portu açılsın mı?</string>
+    <string name="is_ndis_msg"> NDIS bağlantı noktası açılsın mı ? </string>
+    <string name="open_diag_msg">"USB tethering'de diag bağlantı noktası açılsın mı ?"</string>
+    <string name="open_logvd_msg">Logv / logd özellikleri açılsın mı ? </string>
+</resources>

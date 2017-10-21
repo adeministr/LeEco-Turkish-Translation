@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cb_menu_language">Dil</string>
+    <string name="cb_menu_add_channel">Kanal ekle</string>
+    <string name="cb_menu_channel_list">Kanal listesi</string>
+    <string name="cb_dialog_title_language_choice">Dili ayarla</string>
+    <string name="cb_channel_dialog_channel_state">Kanalı etkinleştir</string>
+    <string name="cb_channel_dialog_edit_channel">Kanalı düzenle</string>
+    <string name="cb_menu_edit">Düzenle</string>
+    <string name="cb_error_channel_num">0 ile 65534 arasında kanal numarasını girin.</string>
+    <string name="cb_error_channel_name">Kanal adı 10 karakteri aşamaz.</string>
+    <string name="cb_error_channel_id_exist">Kanal numarası alındı.</string>
+    <string name="cb_all_languages">Bütün Diller</string>
+    <string name="cb_default_new_channel_name">Yeni Kanal</string>
+    <string name="net_or_simcard_busy">Şebeke veya SIM Kart meşgul. Lütfen tekrar deneyin.</string>
+    <string name="plmn_list_setting_title">Tercih ayarları</string>
+    <string name="network_type">Ağ tipi</string>
+    <string name="confirm_flight_mode_title">Uçuş modu etkin</string>
+    <string name="confirm_flight_mode_msg">Bu numarayı kullanmadan önce uçuş modunu kapatın.</string>
+    <string name="confirm_radio_title">SIM kart devre dışı</string>
+    <string name="confirm_radio_msg">Kullanmadan önce bu SIM kartını etkinleştirin.</string>
+    <string name="confirm_flight_mode_radio_title">Uçuş modu etkin ve SIM devre dışı</string>
+    <string name="confirm_flight_mode_radio_msg">Arama moduna geçmeden önce uçuş modunu kapatın ve SIM kartı etkinleştirin.</string>
+    <string name="confirm_unlock_msg">"Kullandığınız SIM kart kilitli. Lütfen önce kilidini açın."</string>
+    <string name="confirm_roaming_title">Dolaşım hatırlatıcısı</string>
+    <string name="confirm_roaming_msg">"Kullanmakta olduğunuz SIM kart dolaşım durumunda. Devam etmek istiyor musun?"</string>
+    <string name="confirm_button_turn_off">Kapat</string>
+    <string name="confirm_button_turn_on">Aç</string>
+    <string name="model_name">Model</string>
+    <string name="build_number">Yapı</string>
+    <string name="internationalRoam">Uluslararası Dolaşım Ayarları</string>
+    <string name="sim_tab_info">Kart yuvası %s</string>
+    <string name="sim_current_network">Kart yuvası %s güncel şebeke bilgileri</string>
+    <string name="sim_search_network">Kart yuvası %s elle ağ seçimi</string>
+    <string name="current_network">Mevcut şebeke bilgileri</string>
+    <string name="search_network">Elle şebeke seçimi</string>
+    <string name="roaming_service">Uluslararası Dolaşım Ücretsiz Yardım Hattı</string>
+    <string name="signal_strength">Sinyal gücü</string>
+    <string name="leui_search_network_tips">Bu eylem yalnızca geçerli işlem için geçerlidir</string>
+    <string name="currentNetworkType">Bağlı ağ</string>
+    <string name="error_sim_card">Eklediğiniz kullanıcı kartı cihazla eşleşmiyor</string>
+    <string name="sim_cards_notify_summary">Lütfen derhal bir China Telecom 4G kullanıcı kartına değiştirin</string>
+    <string name="sim_card_bottom_title">Bu işlem, kartınızın etkinleştirme durumunu değiştirecektir. Devam et?</string>
+    <string name="sim_card_checkbox_summary">Bu kullanıcı kartındaki mobil hizmetler tercih edilecektir</string>
+    <string name="le_network_4G">4G öncelikli (önerilir)</string>
+    <string name="le_network_3G">3G öncelikli</string>
+</resources>
